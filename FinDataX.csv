@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,gender,signup_date,income,city,transactions_last_3m,avg_balance,app_logins_last_month,late_payments,support_tickets,credit_score,device_type,churn
+1,Madge,Cella,20,non-binary,27/10/2021,25285,Tangtou,44,38724,64,12,6,781,iOS,1
+2,Reinhold,Cahalan,42,female,22/03/2020,85531,Shicheng,5,48124,40,2,6,779,iOS,1
+3,Giulio,Simla,36,female,30/12/2023,104397,Rio Branco,29,37475,79,7,2,402,Web,1
+4,Letti,Celier,19,female,26/09/2020,44144,Quinchía,55,14469,30,6,5,555,Web,0
+5,Drona,Wimpress,44,male,22/04/2021,119335,Straszyn,46,18326,29,11,0,364,iOS,0
+6,Janis,Shutler,47,female,09/12/2021,94897,Dar es Salaam,118,46633,34,1,7,392,Android,1
+7,Olenka,Rocks,24,male,07/02/2019,132786,Henan’an,119,48465,71,8,8,845,iOS,0
+8,Ellyn,Fragino,53,female,14/07/2019,109813,Curití,94,18140,39,2,12,329,Web,0
+9,Bernie,Pirdue,45,male,14/11/2019,119616,Santa Rosa,90,12633,66,1,5,411,Android,1
+10,Lou,Hyams,73,female,06/04/2022,42192,Cepões,24,29617,16,12,15,812,Web,1
+11,Aubry,Cultcheth,18,female,11/12/2022,30266,Sydney,34,35797,55,11,7,580,Web,1
+12,Arly,Philcox,60,female,18/06/2022,117668,Przemyśl,54,16374,53,2,7,327,Web,0
+13,Kalila,Svanini,42,male,07/05/2020,25884,Tanahmerah,95,22715,15,6,7,808,iOS,1
+14,Miran,Trussler,28,female,31/01/2018,85427,San Francisco,53,8134,6,9,6,329,Android,1
+15,Cicely,Keeri,59,female,16/01/2019,78464,Loyew,11,38321,81,10,7,330,Android,0
+16,Phebe,Goghin,62,female,26/09/2020,76895,Khvalovo,79,49719,2,9,3,344,Android,1
+17,Randie,Kleinschmidt,26,female,05/10/2022,78535,Mikhaylovsk,50,36328,35,7,6,671,Web,0
+18,Jemimah,Meyer,66,non-binary,27/02/2023,67602,Khánh Hải,31,253,28,10,3,668,iOS,1
+19,Garreth,Poundford,60,female,08/06/2022,146802,Upig,82,14759,68,8,2,645,iOS,0
+20,Corabel,Knath,53,female,18/10/2023,110937,Tabouda,26,9654,46,1,9,625,Android,0
+21,Peri,Francecione,46,female,13/08/2023,15874,Alejandro Roca,46,45574,18,7,15,360,Android,1
+22,Lemmie,Kinneally,19,female,09/08/2018,103933,Majiao,57,4279,15,3,10,355,Web,0
+23,Penni,Swaysland,68,female,08/10/2021,54233,Temuji,96,11204,24,11,0,356,Android,0
+24,Lorie,Coit,34,non-binary,18/09/2020,43482,Kumbo,37,2777,18,5,7,669,iOS,0
+25,Hana,Pettendrich,36,female,27/11/2019,16656,Jixing,92,40311,81,4,6,683,Android,0
+26,Chester,Roller,73,male,28/05/2022,95537,Beni Khiar,97,44183,5,12,13,835,iOS,0
+27,Bobbe,Tichelaar,31,male,19/12/2019,41748,Ořechov,64,15918,28,12,7,584,Android,1
+28,Abbott,Cushion,45,male,23/04/2018,104093,Charlotte Amalie,117,15767,64,2,2,811,Android,0
+29,Jeni,Cathesyed,30,female,28/01/2018,106095,Chaihe,84,9470,90,3,8,783,iOS,0
+30,Everett,Ramet,52,male,26/12/2021,41683,Lukou,101,44541,56,4,9,367,iOS,0
+31,Rora,Tinkham,47,male,27/11/2022,45612,Garwolin,46,10677,11,12,15,607,iOS,1
+32,Tobi,Saban,54,male,22/01/2018,57798,Bolembre,19,31341,65,10,6,595,iOS,0
+33,Norri,Sawfoot,63,female,03/08/2023,134290,Qingjiang,112,5248,19,2,4,827,iOS,1
+34,Tabina,Wyrall,73,female,11/11/2024,99741,Décines-Charpieu,102,2997,47,2,13,502,iOS,0
+35,Beatrix,MacKegg,50,male,19/05/2022,84711,Skene,7,27322,68,6,15,550,Android,0
+36,Carma,Kennerley,43,female,30/07/2020,146883,Boca Raton,76,48793,85,7,7,518,iOS,0
+37,Vite,Gullan,73,female,09/03/2024,118220,Tomislavgrad,16,36412,79,9,6,725,iOS,0
+38,Ezekiel,Sheron,21,male,10/10/2023,149679,Rodniki,112,32310,61,7,13,573,iOS,0
+39,Caroline,Lots,47,female,15/09/2019,102274,Pointe-à-Pitre,40,31041,39,8,7,440,Android,0
+40,Netti,Walsh,38,female,22/09/2019,72680,Albergaria,38,21190,56,10,1,622,iOS,1
+41,Hewe,Cardoe,35,male,09/06/2018,72620,Rahama,18,41585,21,11,14,633,Web,0
+42,Alexandr,Jamison,67,male,16/05/2023,28851,Igreja,72,38549,84,11,5,710,iOS,0
+43,Kania,Broske,31,male,18/06/2024,31050,Porirua,55,7488,0,2,2,440,Android,1
+44,Patricia,Po,31,male,27/02/2023,21989,Ust’-Katav,63,3299,15,4,6,413,iOS,0
+45,Hurlee,Sigart,19,male,20/02/2022,98816,Zhuanqukou,73,29082,86,9,5,532,Android,0
+46,Uriel,Wasling,32,female,26/07/2023,38732,Zamora,85,30475,52,11,9,465,Web,1
+47,Kalli,Road,24,female,12/10/2021,27860,Nihommatsu,49,31239,22,10,4,748,Android,0
+48,Sandi,Idle,40,male,20/03/2019,135417,São Pedro,39,306,82,2,4,821,iOS,0
+49,Grantham,De Freyne,57,female,28/05/2019,62098,Manay,19,45541,29,8,12,726,iOS,0
+50,Abbie,Mully,56,female,31/01/2019,42293,Dambořice,28,16297,53,4,8,841,Android,1
+51,Ike,Mummery,61,female,25/12/2021,78484,Anse Royale,90,49277,16,5,1,848,Android,1
+52,Ruprecht,Hellyar,49,male,17/04/2022,80115,Huangshi,51,47264,64,6,10,605,iOS,0
+53,Blakeley,Faires,23,non-binary,16/10/2018,31695,Malhiao,115,9807,85,1,2,525,Android,1
+54,Jenda,Norcutt,33,male,15/03/2019,117014,Sidokumpul,30,8858,32,12,7,537,Android,0
+55,Hamilton,Leggon,61,male,09/04/2021,126779,Pryazha,89,28941,29,3,3,771,iOS,1
+56,Lesli,Penvarne,28,female,24/09/2022,29332,Shangxing,61,49125,31,12,13,550,iOS,0
+57,Filmer,Balog,46,male,11/12/2022,115595,Sukadana,11,46216,10,3,4,315,Web,0
+58,Clemens,Trenear,50,male,14/05/2024,18935,Takahata,2,36037,57,6,9,328,Android,0
+59,Sheppard,Berth,55,male,05/11/2019,122583,Batasan,90,36715,40,8,7,302,Android,1
+60,Lina,Sanpere,74,male,27/07/2018,68639,Patrocínio,45,44769,68,11,15,791,Web,1
+61,Francyne,Spendlove,62,non-binary,30/01/2024,89713,Aoshi,6,6435,52,4,0,670,iOS,0
+62,Ignazio,Berkowitz,66,female,22/03/2019,70956,Jiahu,76,49333,0,5,8,388,Android,1
+63,Courtnay,Ivanaev,18,male,19/09/2023,53021,Sumberpucung,89,34506,16,8,12,482,Web,1
+64,Hammad,Freckelton,20,female,27/11/2022,38201,Jorong,24,18219,81,10,11,790,iOS,0
+65,Nicolas,Bembridge,66,female,28/12/2021,87327,Kaducondong,115,42477,9,6,3,443,Android,0
+66,Northrup,Critchlow,26,female,23/07/2024,122712,Dongle,119,20174,22,4,3,719,iOS,1
+67,Selma,Chaudhry,58,male,20/09/2019,130171,Agdangan,14,31118,71,3,4,615,Android,1
+68,Ediva,Fipp,21,female,22/02/2021,87104,Anding,91,26837,87,12,8,306,Android,0
+69,Rubie,Deavin,41,female,13/02/2023,123489,Dongqu,13,37248,71,9,9,389,Android,0
+70,Arleyne,Rosengarten,31,male,13/11/2018,101003,Pamoyanan,15,10904,50,12,9,780,iOS,0
+71,Shanna,Babinski,60,male,27/07/2023,76371,Nanchoc,54,33582,72,11,3,523,iOS,0
+72,Zora,Coyish,64,male,27/09/2018,32051,Liljendal,53,314,82,11,7,696,Web,0
+73,Neron,Czajkowska,26,female,05/08/2021,124262,Mar’ina Roshcha,76,3867,56,2,7,472,iOS,0
+74,Duffy,Sucre,49,female,24/04/2018,70376,Villa Ocampo,77,48782,24,0,3,785,iOS,0
+75,Mack,Davison,30,male,30/05/2021,96502,Clearwater,39,37262,69,6,9,517,iOS,1
+76,Dasha,Rivallant,28,female,05/04/2022,88965,Libenge,88,38884,61,6,10,691,Android,0
+77,Smitty,Essery,23,male,26/06/2018,64999,Saltsjöbaden,110,49522,15,6,11,673,iOS,1
+78,Steven,Bogart,23,male,05/12/2020,65008,Boaco,7,46689,3,9,13,416,iOS,1
+79,Erie,Thirsk,55,male,03/04/2021,120630,Bauru,24,29294,87,4,12,755,Android,0
+80,Allin,Winckle,70,non-binary,08/06/2020,80721,Salem,12,40287,13,0,8,537,Android,0
+81,Tybie,Spacey,37,male,12/08/2024,76945,Ucluelet,14,21347,60,9,4,677,iOS,0
+82,Eugine,Kitchin,46,male,16/12/2023,38473,Balangkayan,43,24361,42,12,10,606,iOS,0
+83,Isaac,Barrie,33,non-binary,11/11/2024,94138,Mastung,78,13217,5,7,2,455,Android,1
+84,Aarika,Dougal,63,female,02/12/2019,40619,Gjøvik,17,28700,35,0,12,504,Android,0
+85,Sebastiano,Toby,21,male,08/11/2018,147168,Wangsi,37,47211,33,3,0,653,Web,0
+86,Fernanda,Wadelin,40,male,23/06/2024,35388,Moneague,92,48497,71,0,4,592,Android,0
+87,Ondrea,Wollen,55,female,10/02/2018,142062,Topdac,27,45998,70,5,4,313,Android,0
+88,Pauly,Gaine,70,male,15/01/2024,16641,Żabia Wola,6,32493,7,5,11,553,Android,0
+89,Dorthea,Poynton,52,male,27/03/2021,99368,Reisdorf,91,33383,15,2,8,807,Android,1
+90,Diane-marie,Gibbons,29,female,09/01/2021,32622,Albergaria,44,6453,50,0,15,421,iOS,1
+91,Ursola,Kopfen,49,female,19/10/2019,17577,Yunxi,112,3168,85,11,5,639,iOS,1
+92,Giorgio,Towers,49,female,29/09/2024,67849,Dabaozi,34,20932,75,12,10,317,iOS,1
+93,Zitella,Robertshaw,28,male,01/11/2019,75119,Vavoua,26,32267,81,7,11,549,Web,0
+94,Meredith,Gostage,46,male,20/11/2020,84696,Sumberan,0,31960,70,3,9,612,Android,0
+95,Maggee,Antoniat,33,male,23/04/2021,48959,Livramento do Brumado,112,10965,57,2,14,545,Android,0
+96,Aurie,Dixson,51,non-binary,06/05/2020,127112,Kafarati,61,31592,21,10,10,693,Android,0
+97,Meredeth,Edgett,35,non-binary,15/02/2024,39429,Houjiachuan,43,28369,85,8,12,598,iOS,1
+98,Frankie,Munns,27,non-binary,22/03/2021,87025,Jindřichův Hradec,11,32615,11,9,1,712,Android,0
+99,Jodi,Quinnelly,41,female,30/07/2024,27558,Ringinagung,59,9009,24,11,10,827,iOS,0
+100,Nobe,Cornelissen,65,female,24/11/2023,37267,Porvenir,32,47405,5,2,6,655,iOS,0
+101,Eileen,Lobell,55,male,20/10/2022,60600,Santa Maria da Vitória,80,10507,6,10,9,564,Android,0
+102,Muhammad,Jeannon,61,female,24/12/2023,143889,Motrico,67,4160,1,7,15,418,iOS,0
+103,George,McKoy,40,male,06/01/2020,110666,Huangshan,20,20065,60,5,5,637,Android,0
+104,Daniel,Dressel,65,male,18/02/2021,149882,Baoping,23,12291,48,6,14,841,Web,0
+105,Janette,Naughton,27,male,28/11/2022,67321,Líbeznice,63,43756,70,3,1,670,Web,0
+106,Waiter,Cullum,44,male,20/03/2021,18032,Tianguá,104,25867,77,12,0,326,Web,1
+107,Cassandry,Tuddenham,51,male,11/11/2022,19264,Burnham,64,24840,89,6,11,806,Web,0
+108,Christye,Aleswell,18,female,16/04/2018,62269,Haimen,11,471,88,6,10,663,Android,0
+109,Darrelle,Bauduccio,44,male,15/07/2023,88261,Bilbays,114,46232,50,11,2,550,Android,1
+110,Paloma,Dominik,58,male,18/11/2019,138112,Daixi,36,34479,75,10,4,509,iOS,1
+111,Dorree,Montague,56,male,15/02/2023,135051,Kopashnovo,72,19825,31,6,14,380,iOS,0
+112,Brittan,Harford,65,female,04/10/2019,87721,Olímpia,17,27071,78,4,15,685,Web,1
+113,Valerie,McCarter,22,female,05/09/2022,76718,Turka,30,23336,52,12,5,682,Android,0
+114,Tomasina,Stollen,24,female,15/11/2020,123889,Moita,110,3960,61,8,10,524,Android,0
+115,Joachim,Black,48,male,06/05/2022,141863,Dawan,18,48388,28,2,3,302,iOS,1
+116,Fara,Belfit,67,female,26/07/2024,103609,Florencia,7,9840,66,4,12,437,iOS,1
+117,Blinnie,Simchenko,59,female,13/09/2021,84113,El Ingenio,105,3000,71,10,10,574,iOS,0
+118,Ali,Wenzel,48,male,21/04/2024,98946,Hartola,29,5743,34,9,13,741,Android,0
+119,Vinny,Fraschetti,18,male,26/06/2020,28375,La Habana Vieja,57,34797,87,9,14,405,Android,0
+120,Karlee,Proctor,21,male,03/08/2023,115049,Lac La Biche,101,865,71,9,0,645,Android,0
+121,Gwenore,McCoish,22,female,14/09/2023,54743,Acobambilla,44,12500,7,4,1,673,Android,0
+122,Ingeberg,Dresser,35,male,07/04/2020,35877,Linjiang,106,45636,40,8,14,532,Android,0
+123,Ruperto,Bound,71,male,13/09/2020,144794,Çalxanqala,21,32598,58,2,14,405,Android,1
+124,Dall,Spadoni,34,male,23/11/2023,19077,Cipanggung,114,13478,84,4,3,563,iOS,0
+125,Lindsey,Yeskin,42,non-binary,24/10/2023,109464,Kamenka,23,6327,81,12,5,677,Android,0
+126,Ab,Blanchet,51,male,02/06/2024,139477,Heliconia,89,10099,54,12,0,644,Android,1
+127,Patti,Talks,26,female,30/06/2020,105385,Lianjiangkou,57,36529,34,12,3,549,Android,0
+128,Leann,Dives,41,male,01/11/2022,109945,Santa Ignacia,43,12637,46,6,14,496,Web,0
+129,Christabella,Chomicz,74,male,23/03/2024,139819,Yigo Village,94,4445,29,4,12,811,Web,0
+130,Humfried,Loudon,73,female,26/05/2021,68466,La Loma,55,15632,57,1,13,698,iOS,1
+131,Bernice,Olivera,64,male,30/08/2024,42636,Sadská,4,46325,89,0,2,609,Android,1
+132,Mill,Thurlby,40,female,05/12/2021,122248,Surcubamba,106,14809,11,3,3,336,Web,0
+133,Lira,Goaley,52,male,04/09/2018,30013,Daoqiao,39,8759,42,6,2,496,Web,1
+134,Gayle,Keble,40,female,20/12/2019,90046,San Francisco,16,16363,56,5,10,605,iOS,0
+135,Spenser,Routhorn,63,female,22/05/2018,117869,Rennebu,40,1858,58,8,5,685,iOS,0
+136,Bordie,Christoffels,67,male,15/02/2023,119148,Podporozh’ye,2,37063,73,6,4,400,Web,0
+137,Lauralee,Kennicott,54,female,15/09/2022,127629,Ciudad Guayana,46,9921,43,3,13,316,Android,0
+138,Janene,Avarne,74,female,29/05/2019,104513,Monastir,71,28708,81,12,4,687,Android,0
+139,Ardella,Eicke,33,female,16/10/2023,109887,San Nicolás,77,2774,2,1,6,552,Android,1
+140,Alphard,Boodell,75,male,02/07/2021,52043,Mỏ Cày,108,30102,33,0,6,640,iOS,0
+141,Giffer,Degoix,33,female,28/02/2023,138075,Hazlov,93,14577,17,10,7,731,Android,0
+142,Hilda,Bendan,64,female,11/06/2021,68215,Sagang,59,29063,72,6,14,341,Web,0
+143,Jamison,Schubert,33,male,15/12/2019,139434,Fujieda,53,18347,44,0,15,444,Android,1
+144,Raine,Castanyer,54,male,06/05/2021,102206,Mollas,117,11209,80,2,12,346,iOS,1
+145,Cecilla,Ather,41,non-binary,06/02/2019,25787,Leuwipicung,38,5291,80,7,0,719,Android,0
+146,Meredithe,Cajkler,19,female,14/01/2022,52652,Dongshandi,12,5204,22,2,10,766,Android,0
+147,Warren,Lumby,22,male,18/01/2023,86161,Khānaqāh,92,18845,49,9,11,305,Web,1
+148,Giuditta,Standall,29,female,22/01/2020,93513,Sibiti,71,13048,85,3,15,816,Android,1
+149,Jessalyn,Heddon,37,female,30/04/2022,79721,Huchang,58,16317,49,10,1,344,Android,0
+150,Benny,Oxlade,43,male,05/05/2022,127246,Hayil,115,3930,47,2,5,324,Android,0
+151,Averil,McCaskill,59,male,19/01/2024,80782,Taung,32,3747,74,8,1,435,Android,0
+152,Lindi,Skarin,37,male,22/07/2024,29025,Bantar,33,31915,5,5,10,636,iOS,0
+153,Lori,O'Sullivan,70,female,02/09/2024,82961,Santa Rosa de Cabal,62,4012,19,3,6,377,iOS,0
+154,Karna,Capes,24,male,26/08/2022,16360,Vaitogi,28,9227,60,12,10,404,Android,1
+155,Boycie,Fielders,36,male,03/07/2021,35803,Sueyoshichō-ninokata,32,21592,34,5,14,483,iOS,1
+156,Amity,Matelyunas,38,female,27/04/2024,50889,Suohe,19,12364,3,1,3,810,Web,0
+157,Robin,Pheazey,21,male,09/11/2023,145216,Xindi,29,26213,77,0,5,501,Android,0
+158,Swen,Coleiro,29,male,13/03/2020,50677,Banjar Kelodan,19,13199,82,4,13,494,Web,0
+159,Elga,California,18,male,12/08/2023,61909,Wenfu,100,39597,18,2,4,603,Android,1
+160,Kirby,Klimmek,69,female,21/02/2021,131756,Batiano,57,24660,50,12,8,575,Web,0
+161,Prudence,Skrzynski,24,male,22/06/2018,17896,Jelah,1,49280,6,11,15,780,Web,0
+162,Paige,Whitehead,73,female,28/07/2024,87074,Ķegums,64,17305,16,8,13,834,Web,0
+163,Scarlett,Dymocke,36,male,02/12/2024,129506,Bethlehem,103,16603,6,12,1,411,Web,0
+164,Asa,Davids,30,female,29/11/2019,139406,Mirosławiec,98,47518,34,8,5,550,Android,1
+165,Benedick,Alpine,73,male,21/03/2020,48783,Langzhong,104,5384,7,4,13,365,iOS,0
+166,Sophia,Martinovic,61,male,29/11/2018,73638,Novosibirsk,58,16778,18,8,1,831,iOS,0
+167,Michaelina,Durant,19,female,15/04/2024,69099,Rouen,53,18130,76,2,7,505,Android,0
+168,Anne-marie,Sketchley,59,female,10/05/2018,21510,Kachar,83,33867,81,12,5,333,iOS,0
+169,Theobald,De Mico,40,male,21/06/2021,72312,Guilmaro,28,38972,7,11,4,417,Web,0
+170,Gordon,Purrington,19,female,08/11/2018,136480,Béziers,85,30876,68,5,9,833,Web,0
+171,Gretchen,Ferrari,21,male,02/05/2019,95816,Kamieniec Wrocławski,72,8996,4,9,11,301,iOS,0
+172,Kara-lynn,Davidove,58,female,24/12/2020,113160,Paniqui,20,21911,65,12,9,350,Android,0
+173,Starlin,Nolleth,20,male,15/10/2020,142059,Limoges,89,25869,41,9,0,352,Android,1
+174,Vin,Freed,29,male,25/07/2019,122953,Vila Maior,115,31552,79,6,13,397,iOS,1
+175,Ansel,St Angel,28,female,18/12/2024,94359,Sviadnov,36,36550,18,10,6,516,iOS,0
+176,Noella,Prando,65,male,31/10/2019,113253,Wąpielsk,26,1780,49,11,5,584,Android,0
+177,Bentlee,George,39,female,12/08/2020,138398,Kāshmar,67,40631,71,7,5,739,Android,0
+178,Laney,Musicka,18,female,21/07/2021,15149,Agen,51,24970,76,0,12,526,Android,1
+179,Kerianne,Boichat,30,male,19/11/2024,36552,Newmarket,45,11606,54,5,15,522,Web,0
+180,Brigida,Bolus,68,non-binary,22/09/2019,77472,Qacha’s Nek,78,47528,40,6,12,836,iOS,0
+181,Jerrold,Risby,29,female,23/11/2020,77300,Taloqan,93,14039,4,2,8,399,iOS,1
+182,Trenna,Djordjevic,31,male,21/10/2018,116207,Flushing,63,24754,38,5,15,551,Web,0
+183,Sammy,Chimienti,59,female,09/09/2018,59805,Satrejan,41,5864,66,1,10,660,iOS,1
+184,Jacqui,Culleton,56,male,01/12/2023,123079,Yuktae-dong,49,11863,45,2,8,665,iOS,0
+185,Laraine,Whorton,59,female,05/06/2024,141396,Emmeloord,29,47466,15,1,15,578,iOS,0
+186,Sauveur,Gresswood,22,female,07/09/2023,121882,Néa Filadélfeia,13,16438,22,2,5,509,iOS,1
+187,Paloma,Cyson,34,male,10/06/2021,95366,Vandœuvre-lès-Nancy,104,43665,33,2,7,466,Android,0
+188,Harri,Betun,58,female,14/07/2023,68958,Kukulu,54,17906,79,1,12,834,iOS,0
+189,Briana,Wolfe,27,male,12/09/2022,140374,Pondoktelo,59,27431,75,7,10,816,Android,0
+190,Thorny,Grzegorczyk,47,male,31/08/2019,46375,El Zapote,57,15571,77,9,9,484,iOS,0
+191,Jacinta,Kaine,31,male,19/07/2023,137095,Peimei,61,30086,76,6,1,753,iOS,0
+192,Jacqueline,Danilyak,74,male,24/01/2018,44607,Chengkan,13,44577,8,4,10,741,Android,0
+193,Hyacintha,Fronczak,69,male,06/03/2020,91654,Santa Ana,67,15726,19,0,9,825,Android,0
+194,Berky,Monkton,57,non-binary,25/03/2020,66025,Örebro,33,21458,57,11,3,304,iOS,0
+195,Almeda,Syson,63,non-binary,01/08/2022,38859,Uyskoye,34,22101,16,5,4,488,iOS,0
+196,L;urette,Le Provost,60,non-binary,05/12/2018,69498,Quanshang,86,219,5,9,14,416,iOS,0
+197,Ephrem,Snary,67,female,14/04/2023,81747,Hanamaki,92,32575,16,8,4,560,Android,1
+198,Fara,Kitching,60,female,27/01/2023,53363,Salinas,100,17637,84,3,12,717,iOS,0
+199,Emilie,Playle,53,female,30/12/2024,15578,Francisco Villa,43,22713,13,5,6,553,iOS,1
+200,Raeann,Bees,39,female,28/01/2023,31775,Cukangpanjang,101,25925,29,0,13,483,Android,0
+201,Esta,Roblou,60,female,26/11/2023,132474,Changzhi,30,25206,82,0,11,465,iOS,0
+202,Heddie,Mountney,35,female,02/08/2024,46989,Albertville,0,48445,64,4,4,388,iOS,0
+203,Ermanno,Klaggeman,74,male,01/01/2023,111289,Quanshang,46,27229,50,3,9,425,Android,0
+204,Meaghan,Prinn,25,female,06/07/2019,40530,Zastron,17,17340,38,3,9,584,iOS,1
+205,Grace,Ellsbury,48,male,01/12/2020,78851,Ingersoll,70,11703,50,1,7,520,iOS,0
+206,Marybelle,Matiebe,47,non-binary,13/08/2020,34124,Idi Rayeuk,22,9913,24,6,8,773,iOS,0
+207,Antoine,MacConnell,49,non-binary,09/05/2024,93219,Osypenko,5,34075,76,5,6,710,iOS,1
+208,Dwayne,Pashenkov,51,female,28/06/2019,143639,Hecheng,18,10116,0,5,12,579,Android,0
+209,Basil,Brushneen,23,male,31/05/2021,62741,Julcamarca,56,13164,40,2,11,336,Android,0
+210,Baxter,Goundsy,47,male,31/10/2023,60529,Santiago,90,656,66,10,8,835,iOS,1
+211,Caty,Remington,38,male,03/07/2024,97576,Sharïngol,95,18954,53,0,11,400,Android,0
+212,Rutter,Klimaszewski,51,non-binary,22/09/2024,145194,Nikolinci,23,19625,84,11,8,576,Android,0
+213,Chlo,Clelland,44,male,15/05/2021,143961,Saitama,100,20654,62,3,11,511,Android,0
+214,Kellsie,Crocken,55,female,16/04/2022,98320,Racławice,11,19573,68,6,15,476,Android,0
+215,Elsinore,Macallam,29,female,25/12/2022,51868,Évry,67,5576,67,4,5,516,Android,0
+216,Fanchette,Roiz,63,male,30/04/2021,41803,Qingfa,117,32201,36,10,2,594,Android,0
+217,Esther,Deyenhardt,26,female,12/07/2018,75314,Liwale,28,13419,20,7,6,324,Android,0
+218,Carolann,Parlott,37,female,17/04/2019,97547,Sumurgeneng,33,38392,5,8,15,583,Android,0
+219,Hollis,Cumo,50,male,11/11/2020,98355,Sepit,68,9810,67,5,11,700,iOS,0
+220,Anders,Bendtsen,74,non-binary,02/03/2023,95139,Ubatuba,103,43248,67,2,3,789,Android,0
+221,Sibyl,Hoys,57,male,18/09/2019,131404,West Jerusalem,75,33633,62,8,15,349,Android,0
+222,Grenville,Trawin,19,male,15/09/2019,136691,Vasyl'evsky Ostrov,33,35877,74,4,10,619,Web,0
+223,Cherlyn,Germann,22,female,17/12/2022,84080,Raciążek,96,48978,25,7,2,364,Web,1
+224,Dudley,Vokins,60,male,05/05/2023,133723,Wanling,98,3180,5,6,10,357,Android,0
+225,Theresa,Kirley,63,male,10/08/2019,25568,Vicente Guerrero,58,46856,82,4,6,631,Android,0
+226,Colman,Steggles,57,female,08/10/2023,100529,Rahayu Dua,57,337,15,6,9,705,iOS,0
+227,Laurena,Vannet,43,female,21/06/2023,72713,Jincheng,93,35250,33,8,1,313,Android,0
+228,Stanly,Huncoot,60,male,17/12/2018,27599,Kitsuki,14,46871,79,8,7,721,Android,0
+229,Davita,Gallegos,64,female,07/06/2022,30490,Jagdaqi,83,32776,6,11,1,663,Web,0
+230,Nerte,Lepick,21,male,18/07/2018,33262,Thành Phố Thái Bình,46,4249,89,12,3,384,iOS,0
+231,Meris,O' Dornan,27,male,28/01/2020,73630,Changtang,39,9367,52,4,15,309,iOS,0
+232,Edgard,Jouandet,69,female,09/03/2022,138128,Milówka,67,29358,28,2,2,635,Android,0
+233,Dione,Mordon,50,non-binary,15/05/2024,50119,Zarzis,76,27764,2,5,2,524,Android,0
+234,Myca,Smeed,72,female,29/07/2019,102085,Nanshi,46,40140,21,7,14,800,iOS,0
+235,Rancell,Burghall,46,male,02/01/2018,15443,Chouto,37,18969,3,8,11,345,iOS,0
+236,Reuben,Metzing,29,female,13/12/2018,128534,Krajan,3,20909,11,12,11,797,Web,1
+237,Desiree,Syme,22,female,19/11/2018,28160,Jiaocheng,84,23344,17,5,11,426,iOS,0
+238,Calley,Pollicott,70,male,18/04/2023,105666,Katrineholm,60,15287,9,1,10,432,Android,0
+239,Esmaria,Feldbau,44,male,04/08/2024,46429,Osvaldo Cruz,116,42911,66,12,1,680,Android,1
+240,Laurella,Geharke,61,male,03/04/2023,124837,Staraya Stanitsa,25,47731,89,9,13,512,iOS,0
+241,Herman,Quelch,58,female,01/09/2018,76357,Ýdra,48,22656,61,2,10,612,Web,0
+242,Audre,Haugg,57,male,07/07/2020,118141,Tonggakjati,82,30323,71,3,5,840,Android,0
+243,Felicia,Grouvel,30,female,15/12/2021,89743,Awarawar,116,31400,10,6,9,766,Android,0
+244,Marius,Greggor,31,male,30/07/2024,116806,Ensanche Luperón,117,46207,28,3,1,406,Web,0
+245,Basil,Aveyard,60,male,01/05/2020,73958,Rtishchevo,94,24620,78,2,0,589,iOS,1
+246,Atalanta,Baldi,24,male,17/10/2019,66710,Mekarjaya,78,5465,15,3,10,483,iOS,0
+247,Darbie,Akister,30,non-binary,03/07/2019,48928,Ibagué,18,567,24,4,0,672,Android,1
+248,Vilma,Labat,27,male,15/04/2018,28831,Primorsko-Akhtarsk,2,22292,29,9,0,547,iOS,1
+249,Ninnetta,Diggle,46,female,04/01/2023,92929,Ibaiti,31,46496,14,7,2,660,iOS,0
+250,Emlen,Hedworth,64,female,16/07/2018,85598,Jinghong,5,1366,49,10,3,604,iOS,0
+251,Ange,Colliford,72,male,03/10/2024,20448,Svislach,45,10074,21,4,7,807,Android,0
+252,Alvis,Nevett,43,female,02/04/2022,146729,Khovd,51,30826,37,5,13,541,iOS,1
+253,Drud,Srutton,54,male,03/01/2019,125350,Estelí,106,6263,67,12,1,587,Android,0
+254,Britney,Boniface,28,male,22/01/2022,51308,Xingquan,119,10021,43,8,14,330,iOS,0
+255,Gilles,Heal,73,non-binary,25/08/2024,89967,Dayr al Ghuşūn,33,23950,9,0,4,827,Android,0
+256,Chrissie,Sooper,64,male,01/11/2021,108498,Tunal,66,28311,46,0,14,412,iOS,1
+257,Flory,Fulham,44,female,21/03/2022,33507,Az Zuwaytīnah,84,18745,38,1,1,766,Web,0
+258,Annaliese,Simonsen,45,female,01/05/2021,103601,Eauripik,103,26771,71,9,7,770,iOS,0
+259,Adoree,Laughrey,34,male,28/09/2023,28173,Itagüí,73,142,89,6,12,594,Android,0
+260,Farrand,Follett,30,female,16/07/2018,25352,Anyang-si,1,14884,24,3,12,660,iOS,0
+261,Jemmie,McLeod,62,non-binary,07/05/2019,38900,Kerbuyan,113,8216,35,6,12,561,Android,0
+262,Gray,Naile,40,male,26/12/2023,22401,Upper Hell's Gate,41,9695,14,9,8,472,Android,0
+263,Florry,Rayburn,44,male,02/01/2019,126088,Santa Catalina Norte,34,3082,23,10,2,307,iOS,0
+264,Rycca,Jursch,69,female,11/02/2024,92810,San Alberto,111,41995,16,1,1,381,Android,0
+265,Wainwright,Bestar,73,female,28/03/2024,67063,Perepravnaya,92,5591,67,3,2,448,Android,1
+266,Hephzibah,Mailes,20,male,06/08/2024,143064,Las Vegas,90,816,50,5,9,804,iOS,0
+267,Page,Hablot,38,male,05/05/2018,58283,Forshaga,103,16313,33,0,1,735,iOS,0
+268,Luelle,But,34,female,29/01/2022,139646,Vänersborg,82,48521,10,0,6,394,iOS,0
+269,Barnett,Breakey,75,male,27/11/2020,95156,Lyambir’,110,5847,44,2,0,767,iOS,0
+270,Olwen,Pranger,67,female,09/09/2024,43765,Rząśnik,43,34240,38,9,7,588,Android,0
+271,Hubie,Loftus,22,male,08/11/2021,47108,Tolomango,118,18274,77,1,5,509,iOS,0
+272,Jerry,Nolte,54,male,31/01/2020,83201,Ishikawa,13,23060,3,10,2,392,iOS,0
+273,Nico,Gerg,24,male,26/10/2023,37959,Bang Pa-in,10,46531,80,6,7,557,Web,0
+274,Aviva,Goldup,62,female,29/11/2023,126157,Ippy,23,26201,51,3,14,302,iOS,1
+275,Else,BURWIN,33,female,21/08/2023,101213,Cantagallo,66,27861,30,5,1,548,Android,0
+276,Mable,Callaby,39,female,28/05/2019,136687,Penanggungan,1,3162,60,5,4,824,iOS,1
+277,Shanda,McAuslene,56,female,27/03/2020,32489,Los Angeles,35,21146,67,8,12,763,Android,0
+278,Morna,Capp,58,non-binary,19/05/2020,145945,Niu,30,28446,19,3,9,547,iOS,1
+279,Karia,Doonican,38,male,28/06/2023,120061,Huangge,111,4902,78,3,12,589,Web,0
+280,Salem,Bilbrooke,73,male,05/03/2023,20964,Mercaderes,106,24099,46,8,0,635,iOS,0
+281,Harmonia,Shaxby,35,female,24/09/2022,124301,Plandirejo,27,4617,44,9,13,641,Android,0
+282,Breena,d'Arcy,47,female,12/08/2020,119901,San Antonio,72,33236,77,0,10,615,iOS,0
+283,Bea,Milmo,29,female,10/09/2019,103699,Uyo,33,43833,29,5,0,687,Android,1
+284,Goldina,Ortsmann,40,male,08/04/2021,86004,Lukavice,82,8120,5,1,14,325,iOS,0
+285,Ki,Shapter,57,non-binary,07/06/2018,64704,Santa Lucia,83,19872,30,5,2,387,iOS,0
+286,Evie,Inglese,51,male,26/12/2019,43787,Jiucaigou,104,15584,33,0,2,532,Android,0
+287,Jackie,Allridge,31,female,03/03/2023,109793,Gowurdak,0,17089,20,1,5,486,Android,1
+288,Wallache,Gorioli,29,female,28/01/2023,119525,Angoulême,93,13376,15,3,7,524,Web,0
+289,Morrie,Cogdon,74,male,10/03/2020,108111,Nouméa,51,39793,58,7,8,404,iOS,0
+290,Dennis,Goaks,39,male,10/05/2023,37649,Renhe,88,48587,79,9,7,695,iOS,0
+291,Kelli,Muino,28,female,10/01/2024,55212,Las Flores,56,13057,17,3,8,310,Web,1
+292,Obie,Wike,56,female,18/08/2022,120215,Ōtsu-shi,95,8642,20,4,15,834,Web,0
+293,Nikolaus,Woolstenholmes,75,male,13/03/2019,141667,Wololele A,68,40505,4,0,4,465,Web,0
+294,Arty,Nezey,49,female,04/10/2021,68303,Dongfu,73,24862,21,1,7,752,iOS,0
+295,Lydon,Pibworth,57,female,16/08/2019,28534,Kněžpole,48,27068,80,6,8,439,iOS,0
+296,Layne,Caroll,41,non-binary,10/12/2021,130168,Oliveira,80,3828,58,4,0,664,Web,1
+297,Opal,Goane,26,non-binary,05/12/2018,65936,Västerås,55,27630,84,2,11,660,Android,1
+298,Arther,Margaritelli,32,male,12/11/2021,31727,Ząbkowice Śląskie,94,39218,22,9,12,377,iOS,0
+299,Vonnie,Dupre,26,non-binary,25/11/2019,24546,Murcia,27,23202,8,1,10,707,Android,0
+300,Octavius,Diboll,51,male,24/12/2022,130854,Czerniewice,28,19499,0,12,2,850,Web,0
+301,Umberto,Goodings,55,male,17/08/2023,70694,Tayang,40,6644,14,5,3,635,Android,1
+302,Nathanael,Leeke,44,female,27/03/2019,82869,Grand Bank,39,4032,18,10,12,778,iOS,0
+303,Nani,Karpenya,56,female,04/02/2021,69620,Orguz,42,28704,58,7,7,420,Android,0
+304,Mattias,Kimbury,35,male,29/09/2019,58490,Nîmes,62,48474,11,4,5,430,iOS,0
+305,Rosene,Shrubshall,74,male,17/05/2023,49034,Mwembe,100,27568,31,2,2,534,iOS,0
+306,Delores,Chandlar,35,female,23/10/2018,77164,Västerås,58,23759,41,6,2,619,iOS,1
+307,Silvie,Chatten,50,female,07/12/2022,37124,Campinas,57,29924,0,12,0,494,Android,1
+308,Durand,Clulow,61,female,24/10/2021,117422,Pshada,96,40614,49,8,6,419,Android,0
+309,Catherin,Bachshell,54,male,11/10/2022,112736,Katsuura,39,41579,29,10,4,329,Web,0
+310,Melloney,Greenhalgh,43,male,22/07/2024,15710,Cantaura,105,48822,18,5,9,748,Android,0
+311,Peggy,Iltchev,40,female,27/08/2022,145017,Sol’-Iletsk,92,16786,89,10,7,493,Android,1
+312,Zaria,Lascelles,43,male,09/11/2018,19874,Luorong,95,45572,85,4,4,411,iOS,1
+313,Beltran,Nicol,46,female,17/08/2020,60798,Senangkhanikhom,1,1474,24,9,2,671,Android,0
+314,Puff,Royans,62,male,11/03/2022,119093,Chone,112,13619,32,5,8,314,iOS,0
+315,Barny,McGilben,57,female,16/07/2018,35187,Uummannaq,64,5568,29,9,10,754,Android,1
+316,Glynn,Dollimore,56,female,11/11/2022,132262,San Antonio de Los Altos,68,33536,75,9,12,419,iOS,1
+317,Donall,Surcomb,48,male,29/05/2020,38163,Novopokrovskaya,19,1984,82,5,7,360,Web,1
+318,Grannie,Dwire,74,female,01/09/2021,144909,Yashiga,70,48681,2,4,9,613,Web,1
+319,Marie-ann,Keerl,62,female,20/04/2020,34528,Brest,71,8590,20,9,15,487,iOS,1
+320,Merill,Haley,53,non-binary,19/10/2022,115237,Xiaojin,54,24927,49,7,12,512,Android,0
+321,Aguistin,Bennison,49,female,17/12/2023,115509,Suresnes,2,10794,25,5,7,780,Android,0
+322,Nadean,Schwanden,64,non-binary,08/07/2021,34297,Cigeulis,101,10865,51,6,15,717,iOS,0
+323,Tedie,Cassin,34,male,09/12/2021,147930,Shatoujiao,50,14702,48,10,10,471,Web,1
+324,Herculie,Keely,70,female,31/10/2020,106216,Yerofey Pavlovich,20,15255,49,1,8,637,Android,0
+325,Ricca,Wreiford,39,female,11/09/2024,19603,Shiyuetian,85,20663,59,1,3,697,Android,0
+326,Esther,Shalliker,68,male,23/07/2024,88192,Grojec,87,7011,51,2,3,730,Android,0
+327,Justus,Reavell,48,female,31/03/2019,113085,Mojimán,114,5006,56,3,1,313,iOS,0
+328,Mureil,Baggiani,67,male,19/02/2018,135377,Pulopaya,114,25771,14,1,9,708,iOS,1
+329,Romeo,Bold,21,non-binary,09/11/2021,60333,Shaxi,51,14276,16,4,8,595,Android,0
+330,Kinna,Eyden,75,male,11/12/2018,88822,Guantun,34,11252,78,8,6,537,Web,0
+331,Joli,Skea,72,non-binary,21/05/2024,142606,La Vega,32,37796,81,6,10,539,iOS,0
+332,Fairleigh,Shinefield,32,female,20/02/2024,71507,Selajambe Satu,31,25618,1,2,8,790,Android,0
+333,Stefano,Besemer,41,female,30/07/2024,30941,Uluale,39,42506,54,3,7,751,iOS,1
+334,Avie,Bunclark,18,male,23/10/2020,15249,Luokeng,44,11262,48,9,11,798,Web,1
+335,Hugibert,Thiem,39,female,21/07/2020,101216,Kohila,63,48069,17,1,7,566,Web,0
+336,Rhona,Marrian,29,male,06/05/2021,84786,Tallahassee,22,33707,12,9,6,790,Web,0
+337,Angelico,Hunstone,75,male,09/07/2021,137155,Aoji-ri,3,48237,13,9,7,338,Web,0
+338,Nora,Fantini,24,female,27/02/2019,30838,Siennica Różana,100,35632,35,8,3,378,iOS,0
+339,Adelaide,Lemar,72,non-binary,09/03/2019,135307,Nuwaybi‘a,77,4381,46,5,0,743,Android,0
+340,Joni,Francke,61,male,27/09/2019,115572,Kyzyl-Kyya,58,28878,80,7,4,497,iOS,1
+341,Roobbie,Partrick,66,male,26/11/2023,44033,Bacun,7,7533,25,3,11,381,Android,1
+342,Barnie,Frankcomb,19,male,16/12/2022,24959,Złota,36,39807,57,4,3,695,Web,1
+343,Gran,Sayre,53,female,08/10/2021,25291,Pārūn,93,42043,50,7,0,680,Android,0
+344,Logan,Le Conte,34,male,11/02/2023,62373,Borovany,105,1543,16,5,15,428,Android,0
+345,Flint,Najera,49,female,08/10/2019,54012,Lyozna,56,22920,10,1,3,546,Android,0
+346,Babita,De Ruggero,75,female,26/12/2024,65897,Laweueng,96,38972,36,5,7,317,iOS,0
+347,Zola,Fulloway,60,male,20/12/2021,24082,Ramat Gan,78,12494,30,9,14,469,iOS,1
+348,Grange,McCarry,48,male,04/11/2021,98127,Datartua,98,45277,56,0,0,328,iOS,0
+349,Alice,Haddrell,72,male,29/08/2023,81989,Cockburn Town,91,6625,55,2,13,794,Web,1
+350,Sauncho,Primo,22,female,05/07/2022,77729,Strängnäs,100,26329,61,6,9,535,iOS,0
+351,Huberto,McCleod,75,female,19/01/2023,26255,Guanchi,93,49516,40,11,8,813,Android,0
+352,Jock,Rowlstone,30,female,07/05/2022,92848,Hāsilpur,56,29768,44,1,3,787,Web,1
+353,Selma,MacPhaden,35,female,26/10/2021,53953,Douba,116,45148,31,3,4,784,iOS,0
+354,Lu,Orans,69,male,03/06/2018,34162,Benjamin Constant,8,31439,85,3,11,495,Android,1
+355,Dasie,Filyashin,37,non-binary,08/09/2021,29427,Bokong Timur,27,335,19,3,13,583,Web,0
+356,Dore,Hubatsch,57,male,02/12/2018,123774,Lille,42,41037,27,4,8,812,Android,1
+357,Jere,Venton,57,male,30/10/2019,65626,Zhaojia,6,9881,76,6,8,558,iOS,0
+358,Keir,Penn,53,female,26/09/2018,112862,Serednye Vodyane,35,12449,67,3,0,775,Android,0
+359,Karrie,Goodbody,71,female,18/08/2021,41486,Sumberbening,66,47583,15,3,15,844,Web,0
+360,Katrinka,Janusik,69,male,11/06/2023,112163,Benchu,17,12096,52,9,6,391,Android,0
+361,Estrella,Aleksashin,28,male,23/08/2021,149033,Chaoyang,108,6981,37,2,10,498,iOS,0
+362,Johnette,Mitchelson,30,female,09/04/2022,58454,Sakchu-ŭp,39,44697,43,12,12,634,Web,1
+363,Cobbie,Boas,39,female,25/09/2019,42551,Slobodka,77,19127,20,6,8,636,Web,0
+364,Gabriel,Ferrelli,55,male,28/07/2019,69896,Boavista,83,31854,80,2,14,445,iOS,1
+365,Brena,De Ferraris,20,female,31/08/2019,122623,Huangge,85,570,65,7,9,723,Web,1
+366,Esteban,Linck,33,female,26/10/2024,134682,Jianba,24,7306,31,3,7,481,Web,0
+367,De,Ocklin,45,female,08/05/2018,107398,Bořitov,32,4911,43,0,11,628,iOS,0
+368,Anselm,Maryan,21,female,01/06/2020,120243,Lhabupu,82,38858,20,4,4,720,Android,0
+369,Valerie,McAlroy,59,female,18/05/2021,37904,Konstantynów,58,13541,21,12,14,702,Web,0
+370,Aarika,Busse,28,female,03/12/2021,15204,Sapat,85,1134,80,5,5,315,iOS,0
+371,Cameron,Othen,29,male,25/05/2018,32409,Cegłów,61,7787,77,0,6,656,Android,0
+372,Violette,Lelande,20,female,16/01/2021,93028,Akunk’,2,44668,81,4,6,675,iOS,1
+373,Barn,Lampert,51,male,09/01/2023,77280,Mizdah,16,34020,70,9,2,318,iOS,0
+374,Anderson,Giraudou,38,male,09/01/2018,29579,Dianya,4,37770,31,3,1,601,Web,0
+375,Holly-anne,Prickett,39,female,28/02/2018,90412,Panggungasri,90,29626,45,1,12,773,Web,0
+376,Kelci,Debnam,22,male,17/09/2024,78300,Sá,67,13859,35,5,6,701,iOS,0
+377,Drusy,Emmanueli,20,non-binary,10/04/2021,77406,Vredefort,60,41576,1,2,3,794,iOS,0
+378,Lorianne,Fenge,18,male,02/10/2022,38659,Cidolog,62,45402,0,11,5,365,Web,0
+379,Anabelle,Ranger,61,female,02/08/2024,50664,Rozsypne,89,18625,60,6,3,409,iOS,1
+380,Bartholomeus,Vallis,29,male,12/11/2020,39544,Wufeng,50,42351,53,4,3,439,iOS,1
+381,Iolanthe,Zapater,39,male,07/05/2021,63089,Baozhu,86,10146,21,0,11,517,iOS,0
+382,Elle,Maseres,63,male,16/04/2022,39967,Berdorf,74,45169,39,7,4,306,Android,0
+383,Jonell,Burton,33,male,07/07/2019,44274,Solntsevo,52,37233,84,7,0,808,Android,1
+384,Florinda,McKeeman,41,non-binary,17/06/2021,70945,Alikalia,50,5200,68,2,15,634,Android,0
+385,Thane,Postance,70,female,19/03/2023,120485,Giv'on HaHadasha,14,39646,56,1,4,731,iOS,0
+386,Ynes,Scrimshire,59,female,02/04/2024,138762,Changfeng,98,27421,43,4,14,654,Web,1
+387,Marlane,Fitter,26,male,09/07/2021,140465,Aradac,71,48267,18,11,6,835,Web,0
+388,Lonnie,Frude,64,male,13/01/2024,105274,Paninggaran,34,45534,25,2,6,325,iOS,0
+389,Fancie,Eaton,68,male,19/10/2018,76469,La Palma,10,5990,74,3,3,683,Web,1
+390,Hattie,Domoney,41,male,21/06/2019,135075,Leuburi,24,34666,18,8,11,798,iOS,0
+391,Gae,Sydry,75,female,19/05/2018,58005,Pontes,105,344,57,3,7,415,Android,1
+392,Kane,Brehat,72,female,24/06/2022,46019,Malārd,77,67,72,10,9,779,iOS,1
+393,Del,Wigzell,51,male,14/11/2021,107089,Marabá,44,40118,12,2,14,512,iOS,0
+394,Hoyt,Malcolmson,27,female,27/09/2021,92813,Kant,56,16739,61,6,7,392,iOS,0
+395,Spike,Rao,34,male,15/12/2024,28286,Buray,110,34338,19,0,10,639,Android,0
+396,Hastie,Goodship,26,female,20/12/2019,109105,Pesochnoye,1,44995,12,0,9,464,iOS,0
+397,Elizabet,Favel,60,female,16/03/2020,129944,Xinjie,82,48407,60,6,13,730,iOS,0
+398,Idette,O' Mahony,27,non-binary,13/01/2019,117107,Stockholm,92,23063,90,8,5,730,Web,0
+399,Merissa,Gyorffy,67,male,11/12/2019,75976,Quán Hàu,7,26662,9,1,2,817,Android,0
+400,Hogan,Stoad,50,male,15/07/2021,123224,Dallas,77,9862,50,9,14,670,iOS,0
+401,Phillipe,Firebrace,23,male,03/06/2024,119664,Hewa,54,40326,36,3,0,410,Web,0
+402,Evin,Swithenby,53,male,27/09/2019,58312,Skotoússa,110,17558,18,6,11,580,Android,0
+403,Ingunna,Marjanovic,36,male,01/02/2022,136034,San Antonio,103,19202,28,4,6,796,Android,0
+404,Roley,Hofner,50,non-binary,07/11/2019,135421,Salitrillos,5,1970,56,3,15,735,Web,0
+405,Lew,Rappport,20,female,19/03/2023,44322,Ituiutaba,96,28399,53,9,11,792,Android,0
+406,Giulia,Andrioli,64,female,24/12/2018,125375,Juan N Alvarez,46,1149,58,10,8,323,Android,0
+407,Nicola,Mohamed,22,female,29/05/2019,92894,Ranot,36,11041,80,6,5,589,iOS,1
+408,Bethena,Duetsche,25,male,16/05/2019,76647,Kelmė,37,27757,82,11,8,575,Android,1
+409,Chic,Beatey,47,male,11/03/2023,71382,Zhetian,4,6284,67,0,12,423,Web,0
+410,Babara,Walczak,28,female,11/12/2020,94113,Duanjia,4,40621,50,2,15,344,Android,0
+411,Wiatt,Palek,65,female,09/10/2020,133966,Sidenreng,60,22051,37,4,14,539,Web,0
+412,Olympie,Cruickshank,56,female,19/09/2019,144927,Velyka Lepetykha,13,35121,36,8,7,525,iOS,0
+413,Glynn,Phelipeau,25,male,07/04/2024,79566,Hongguang,112,45312,79,9,1,454,Web,0
+414,Agathe,Torrijos,66,female,19/01/2022,143525,Bousso,39,36066,22,12,13,578,Android,0
+415,Carny,Oldaker,74,female,07/03/2021,44498,Beicheng,79,35985,13,9,7,670,Web,1
+416,Babs,Goldfinch,71,female,01/11/2019,59192,Tunal,35,37988,70,10,8,805,iOS,1
+417,Frannie,Gilpin,18,male,30/12/2023,63636,Richibucto,73,37455,72,12,3,596,Android,0
+418,Florie,Gatiss,45,male,14/07/2022,18535,Yangjian,2,44697,71,9,1,459,iOS,1
+419,Rosabel,Kennifick,29,non-binary,31/05/2024,26566,Urrao,89,10159,4,2,4,530,iOS,0
+420,Sancho,Santen,44,male,26/01/2020,20553,Kantharalak,72,757,48,12,14,728,iOS,0
+421,Simonette,Hosburn,20,female,22/07/2020,15273,Lonya Chico,34,37885,78,9,2,657,Web,0
+422,Zia,Bisco,52,female,02/02/2024,113046,Bieliny,68,42869,35,2,5,577,Android,0
+423,Emmalyn,Hehnke,43,male,08/03/2020,37224,Ubay,108,3366,37,6,8,497,iOS,0
+424,Bertrand,Izakof,51,male,17/04/2018,53639,Kidal,36,28329,58,2,8,704,iOS,0
+425,Frederic,Storrie,26,male,08/05/2021,126973,Long Layu,44,27996,64,2,14,567,iOS,1
+426,Valma,Hartfield,35,male,31/03/2023,68374,Jagupit,54,13179,43,3,8,695,Web,0
+427,Florrie,Ferrea,64,female,02/10/2024,86920,Hetang,3,41343,65,11,9,683,iOS,0
+428,Lizabeth,Carillo,35,male,24/02/2022,82380,Uppsala,109,23619,21,6,6,380,iOS,0
+429,Ermengarde,Zavittieri,74,male,09/01/2020,55278,Wanling,18,32310,17,7,11,798,iOS,1
+430,Maggi,Durtnel,75,female,08/01/2018,102762,Pará de Minas,17,45303,3,5,15,379,Android,0
+431,Antonie,Lemerie,31,male,11/01/2018,108922,Haligue,85,40646,10,3,5,482,Web,1
+432,Chevy,Montez,47,male,04/04/2019,138335,San Antonio,98,37164,30,9,15,407,Android,1
+433,Nona,Kelcey,27,female,04/06/2019,147749,Shashi,68,120,20,3,8,518,Android,1
+434,Hershel,Walsh,69,male,19/02/2018,92494,Pankovka,102,26651,65,7,13,743,Android,0
+435,Clevie,Norrie,46,male,12/04/2020,142102,Ayorou,16,9967,53,11,9,597,iOS,1
+436,Eustace,O'Cannavan,45,male,31/03/2024,93882,‘Aqrah,93,38681,68,9,0,645,iOS,1
+437,Rozanne,Humberston,62,female,22/09/2020,19630,Bagan,115,38792,20,0,12,495,iOS,0
+438,Gabby,Bacon,44,female,19/02/2023,141531,Karangmulyo,85,42759,41,10,5,643,iOS,0
+439,Annetta,Waddingham,40,female,17/08/2024,81443,Zhiryatino,10,1896,17,4,7,819,Android,1
+440,Micheil,Vicker,39,female,15/06/2023,149409,Stavyshche,2,25664,46,12,1,520,Android,1
+441,Killian,Trowsdale,59,male,15/12/2020,70005,Guangyubao,10,30830,41,2,10,831,iOS,0
+442,Terrijo,Bulleyn,28,female,19/05/2019,136460,Qiaozhen,71,20772,39,6,12,823,Android,1
+443,Bondy,Hawkswell,61,male,12/10/2023,62451,Pho Duc,63,43373,22,3,4,505,Android,0
+444,Andree,Doneld,36,female,16/02/2020,114524,Kungshamn,73,30316,85,5,1,634,Web,0
+445,Alonzo,McRamsey,20,male,28/01/2020,82998,Genzi,30,21481,36,2,3,839,Android,1
+446,Kanya,Duckhouse,35,male,19/01/2022,18111,Roches Noire,68,57,78,9,3,557,iOS,0
+447,Darcy,Dearth,40,female,27/10/2024,31693,Krasnodon,61,42994,50,12,9,850,Android,0
+448,Aldwin,Lancett,60,female,21/09/2024,109649,Pizarro,23,10476,0,2,8,555,iOS,0
+449,Alyosha,Yves,40,male,25/01/2024,130192,Magok,113,49590,19,6,4,689,Android,1
+450,Gabrielle,Evered,25,female,11/02/2024,68796,Jurovski Dol,34,30107,41,6,15,303,iOS,0
+451,Melantha,Gurley,34,male,05/10/2020,44878,Majin,103,21977,36,6,12,834,iOS,0
+452,Eugenie,Bergin,27,male,28/02/2019,24555,Valence,35,8539,10,0,10,726,iOS,0
+453,Egbert,Scanderet,72,female,10/12/2022,40688,May Pen,26,199,88,11,2,305,iOS,0
+454,Annemarie,Verchambre,40,female,18/04/2024,33458,Nong Yai,27,7276,0,12,7,599,Web,0
+455,Haskell,Melody,72,female,03/05/2020,79210,Moyale,106,27065,54,1,0,563,iOS,0
+456,Perrine,Waby,42,non-binary,05/05/2019,121766,Ngadri,70,34322,30,8,8,417,iOS,0
+457,Bryan,Medcraft,45,male,12/08/2020,135945,Suruhwadang,11,10247,55,7,11,584,Web,1
+458,Nickolas,Pettendrich,28,male,26/01/2020,111962,Jembangan,85,45774,83,0,1,773,Android,0
+459,Tracey,Dickman,52,male,19/08/2020,61935,Lysychovo,30,24687,20,8,10,424,Android,1
+460,Nathanial,Wonfor,51,male,22/05/2023,103967,Jistebník,32,12577,45,4,9,680,Web,1
+461,Irving,Dusting,45,female,26/03/2020,92309,Thị Trấn Phước Bửu,45,10226,45,6,8,817,Android,1
+462,Row,Iannuzzelli,54,male,23/02/2023,25857,Zhangcunping,10,34438,84,2,6,580,Android,0
+463,Drucill,Gravet,73,female,22/10/2020,136406,Xuelu,83,14637,8,11,9,672,iOS,1
+464,Hedwig,Swindall,66,male,30/01/2018,76617,Loja,58,45802,58,10,1,439,iOS,1
+465,Euell,Haggeth,24,female,23/06/2022,90101,Saint Louis,33,40701,47,8,5,480,iOS,0
+466,Carolin,Crecy,45,female,04/03/2022,38898,Balas,36,11845,22,10,12,349,Web,0
+467,Myrah,Tollerton,21,female,17/04/2018,89618,Liliongan,57,10598,54,10,13,774,Android,1
+468,Joel,Allonby,60,male,18/09/2018,57625,Oji River,79,19047,48,3,6,417,iOS,0
+469,Marven,Jansen,48,non-binary,15/09/2024,72927,San Diego,13,17459,66,4,11,312,iOS,0
+470,Elsworth,Caulliere,48,female,17/01/2022,34160,Heping,102,45390,81,3,11,688,iOS,1
+471,Abdel,Bichard,75,female,23/07/2022,54962,Qidi,5,3572,45,7,6,582,Web,0
+472,Kiley,Woollacott,69,female,26/06/2019,144187,Yingzhou,107,23686,74,7,7,529,Android,1
+473,Bill,Fearnall,58,male,24/09/2018,110690,Colón,112,15522,71,9,15,711,iOS,0
+474,Ginelle,Trengove,35,female,11/12/2024,57774,Tongkiling,3,4675,84,3,0,842,Web,1
+475,Deloria,McAnulty,42,female,01/10/2022,139441,Longwei,26,14606,39,9,0,367,iOS,0
+476,Merrie,Cattrall,40,male,02/10/2020,86375,Licuan,33,21350,61,10,11,368,iOS,0
+477,Harli,Blennerhassett,49,male,24/12/2019,132432,Luknovo,87,39222,64,10,13,811,Web,0
+478,Calley,O'Dogherty,59,female,09/07/2024,65977,Santa Rosa,20,28997,88,10,10,827,iOS,1
+479,Colman,Colbron,73,non-binary,25/12/2024,44543,Jamaica,120,5485,1,4,15,432,Web,0
+480,Dana,Impson,66,female,11/06/2020,56692,Batuidu,68,48959,49,7,15,753,Android,0
+481,Kayley,McLarnon,20,female,16/04/2024,15317,Okhansk,1,19632,38,9,14,841,Web,1
+482,Kara-lynn,Whates,53,female,13/10/2022,108862,Ecroignard,91,9666,23,6,11,680,Android,0
+483,Nalani,Matthiesen,33,non-binary,10/09/2020,132178,Pamatang,107,4470,47,1,12,446,iOS,0
+484,Agnesse,Swann,38,male,02/07/2023,97054,Sunnyvale,36,43253,70,5,9,773,iOS,1
+485,Pooh,Baudinot,34,male,01/04/2019,139710,San Jose,40,23810,50,9,5,820,iOS,0
+486,Sabine,Harme,57,female,15/02/2019,50032,Przystajń,40,32174,50,11,6,737,iOS,0
+487,Travers,Tabor,22,male,18/11/2022,20214,Xincheng Chengguanzhen,106,10723,14,5,9,471,iOS,0
+488,Manya,Zini,36,male,10/04/2021,124557,Skene,27,26120,58,11,7,356,Web,0
+489,Kalil,Pashen,75,male,18/04/2020,147661,Nogueira,90,41978,87,3,14,815,Android,0
+490,Dominique,Killner,60,female,17/06/2018,84374,Tenjolaya,50,8664,33,5,10,340,Web,0
+491,Nollie,Goucher,63,male,27/02/2020,35471,Nakamura,13,42159,78,7,9,713,Android,1
+492,Patin,Worman,24,male,17/10/2020,91058,Xam Nua,12,46710,60,5,8,390,iOS,1
+493,Vonni,Simnel,43,male,27/06/2020,119247,Mirontsi,69,560,71,3,1,397,Web,0
+494,Hayes,Pulman,35,non-binary,18/05/2019,51746,Busalangga,46,21657,72,9,15,382,Android,1
+495,Marina,MacConchie,41,male,10/04/2024,37591,Tomar,62,19721,65,9,7,429,Android,1
+496,Cory,Staniford,25,male,23/10/2018,52364,Banos,78,2660,42,10,1,553,Android,1
+497,Thor,Glenn,31,female,26/01/2020,21602,Masaguisi,61,30851,5,11,9,516,Android,0
+498,Roxanna,Heffy,72,male,01/11/2022,19216,Meicheng,106,22818,76,3,13,518,iOS,0
+499,Gwenette,Marquez,24,male,06/04/2018,79131,Kuala Lumpur,91,28605,52,1,11,774,Android,0
+500,Jayme,Arlt,28,female,15/03/2020,91986,Honoria,35,10094,35,12,13,313,iOS,0
+501,Krishnah,Piotr,30,female,19/05/2021,46381,Topdac,65,32174,26,8,14,642,Web,0
+502,Chas,Ridsdole,69,female,14/02/2018,122875,Szamotuły,56,8341,40,11,10,842,iOS,1
+503,Phaedra,Boddam,61,female,11/05/2021,33781,Az Zaytūnīyah,7,6601,57,7,7,301,Android,0
+504,Leontyne,Dangerfield,55,female,18/08/2020,141675,La Mesa,17,11455,11,0,9,806,iOS,1
+505,Jayme,Iannuzzelli,62,female,29/07/2022,58582,Malitubog,8,34219,64,6,5,486,Android,0
+506,Eartha,Bucklan,34,non-binary,07/03/2023,134960,Banjar Sengguan,51,1334,7,10,9,418,Android,0
+507,Juanita,Jeffray,73,male,23/02/2023,71475,Jianlong,78,27176,54,3,5,512,iOS,0
+508,Vilhelmina,Caughtry,57,male,23/08/2019,71110,Norrköping,78,38649,12,3,10,595,Web,0
+509,Kyla,Bazley,59,non-binary,07/01/2023,78119,Czechowice-Dziedzice,20,40158,87,4,12,354,iOS,0
+510,Seka,Roscow,18,male,27/05/2021,115108,Nanguzhuang,78,20416,38,9,10,560,Android,0
+511,Rudyard,Naris,61,male,18/10/2023,54686,Manaquiri,96,7289,18,5,13,631,Web,0
+512,Devlin,Grubb,40,female,28/10/2019,124360,Korobitsyno,38,1507,43,0,6,307,Android,0
+513,Alla,Buckles,68,male,01/06/2019,119439,Saint-Égrève,7,19162,20,8,5,523,iOS,0
+514,Glenn,Hedden,55,male,05/01/2018,73603,Punolu,0,7254,90,12,3,731,Android,1
+515,Derrek,O' Neligan,24,male,08/12/2023,141785,Amiens,110,47203,72,8,15,644,iOS,0
+516,Neda,Dinnies,22,female,10/04/2020,38116,Gostivar,54,24290,80,8,13,441,Web,0
+517,Leonidas,Dumphry,32,female,23/11/2022,68665,Saparbay,114,40579,50,9,7,435,Android,0
+518,Lauralee,Bendin,50,non-binary,19/01/2021,144491,São Lourenço de Mamporcão,78,8769,55,11,10,499,iOS,0
+519,Valera,Franceschi,47,female,23/10/2023,71839,Bergen,61,41469,81,9,12,352,Android,1
+520,Darcy,Clarage,49,non-binary,15/06/2020,50355,Xijiang,58,38318,84,5,6,388,Android,0
+521,Stanford,Kilmurry,43,female,19/09/2020,37861,Mercedes,40,34083,73,3,4,795,iOS,0
+522,Barb,Timcke,31,female,20/07/2019,125686,Baganhilir,101,44901,73,6,15,559,iOS,1
+523,Horatius,Gutowska,24,male,14/12/2018,122727,Liaobu,25,15393,71,6,14,711,Web,0
+524,Anselm,Bearward,55,male,08/11/2021,126030,Columbia,72,12226,16,6,1,530,Web,1
+525,Pepito,Whistance,47,male,06/01/2020,132979,Eskilstuna,6,7816,41,0,5,302,Android,0
+526,Garrot,Loughton,55,non-binary,09/09/2020,75521,Severo-Zadonsk,16,34805,41,4,3,699,Android,0
+527,Molly,Tregunna,61,male,29/09/2020,24939,El Retorno,104,37227,87,8,5,703,Web,1
+528,Elisha,Foran,34,female,18/10/2018,57592,Viitasaari,41,39762,87,9,2,617,Android,1
+529,Basile,Kitteman,20,female,24/07/2019,88608,Vännäs,117,46379,84,0,14,836,Android,1
+530,Davon,Varey,58,male,09/06/2019,148041,La Quebrada,71,20027,66,7,10,504,Android,1
+531,Vallie,Owens,72,female,25/04/2024,119240,Noebesa,112,25246,39,5,2,847,iOS,0
+532,Arther,D'Antonio,40,female,19/05/2020,144412,Trąbki,33,41440,90,5,15,316,iOS,1
+533,Lib,Teggin,31,male,17/09/2024,49475,Nybro,31,41696,74,6,6,803,Android,1
+534,Alina,Chaster,74,female,11/04/2021,85851,Datong,93,17412,53,10,1,775,Android,0
+535,Dexter,Guerreru,21,male,22/03/2020,89409,Paris 12,61,39009,56,10,0,587,iOS,1
+536,Kittie,Cervantes,20,male,17/07/2021,114698,Miaogou,93,22821,39,4,4,550,Web,0
+537,Ag,Halladey,45,male,27/05/2024,81608,Póvoa do Valado,36,4346,62,8,3,563,Android,1
+538,Raddie,Heindl,47,female,30/03/2022,146210,Shanghuang,30,34922,59,1,0,315,iOS,0
+539,Jonathon,Joutapavicius,58,male,04/02/2019,34279,Miami,33,26149,49,9,12,503,Android,0
+540,Gwyn,de Najera,26,female,28/05/2022,79375,Alcanhões,97,35978,81,10,1,488,Android,0
+541,Lynna,Trevna,57,female,08/07/2019,101489,Górki,28,22725,82,3,8,306,iOS,0
+542,Kirbee,Grono,74,male,09/05/2021,90344,Rudna Mała,66,24744,87,2,1,709,Android,1
+543,Erica,Rickell,61,male,17/08/2019,30024,Xiadu,10,8864,23,11,6,537,iOS,0
+544,Phylys,Novis,63,male,03/08/2024,85672,Remiremont,26,34596,69,3,14,569,Android,0
+545,Saundra,Mayger,53,male,05/01/2023,54466,Semampirbarat,75,34397,18,6,2,578,iOS,0
+546,Arlyne,Worsfield,49,female,10/12/2024,75861,Fuling,25,32013,46,8,7,787,iOS,0
+547,Dori,Foulser,67,female,24/06/2019,82775,Miyazu,86,337,73,4,8,757,iOS,0
+548,Yolande,Wethered,24,male,17/06/2021,105484,Stavanger,120,3618,40,1,5,688,Android,1
+549,Erskine,Vokes,71,non-binary,28/12/2023,109690,Muang Phôn-Hông,62,9905,82,0,5,663,Android,0
+550,Rriocard,Locarno,37,female,10/05/2020,115767,Blon’,37,31125,33,4,7,498,Android,0
+551,Kaylyn,Eriksson,55,non-binary,27/04/2018,142726,Laraos,118,2017,90,8,4,301,Android,0
+552,Hubert,Ferrant,46,female,12/08/2018,121270,Kruty,17,23297,5,9,4,554,Android,0
+553,Tamma,Nother,55,male,06/07/2024,96330,Beihe,45,49066,61,12,15,329,iOS,1
+554,Porter,Asplen,33,male,21/02/2021,31545,Cheb,101,6103,16,4,7,447,iOS,1
+555,Lindy,Paaso,24,male,17/06/2023,96114,Lefortovo,31,44734,75,1,10,532,Android,1
+556,Daffy,Ling,27,female,04/06/2022,56741,Amargosa,4,37489,44,11,10,714,iOS,0
+557,Wilek,Brant,24,female,16/10/2019,32331,Dallas,108,48663,32,11,2,341,Android,0
+558,Freddy,Whittam,71,male,07/12/2023,121413,Uva,9,12013,80,12,4,556,Android,0
+559,Aldric,Manford,30,male,29/12/2024,103640,Mnichovo Hradiště,71,13595,48,1,0,780,Web,0
+560,Fleming,Thackray,68,non-binary,04/04/2023,105589,Zhongdong,11,27459,79,6,4,792,Android,0
+561,Edithe,Fley,40,non-binary,12/02/2022,43594,Ar Riqāmā,10,41151,42,9,8,597,iOS,1
+562,Moira,Mapston,19,female,10/05/2024,57346,Situbondo,11,10725,27,7,6,586,Web,0
+563,Mata,Bremmer,23,female,10/07/2019,115008,Lian,48,27329,55,7,8,532,iOS,0
+564,Benedetto,McGown,25,male,02/12/2020,17363,Huarong Chengguanzhen,61,22167,26,7,10,477,Web,1
+565,Bird,Vye,69,male,09/02/2022,40561,Hatu Buh,9,40303,73,12,5,784,Web,0
+566,Aimil,Eagles,38,female,10/09/2023,114640,Turbaco,90,13340,18,10,2,469,Android,0
+567,Robby,Weekes,45,female,18/08/2021,132075,Stockholm,107,3713,18,4,5,315,iOS,0
+568,Edy,Freckelton,74,male,10/06/2023,148633,Daming,108,11724,31,9,10,606,Web,1
+569,Bethanne,Kinleyside,75,female,01/04/2022,50493,Quezon City,15,27194,52,10,5,325,iOS,0
+570,Jeno,Simacek,54,male,15/06/2022,37932,Chicheng,31,48579,88,5,5,404,Android,0
+571,Boycie,Spyby,57,non-binary,05/08/2024,76751,Meixi,34,5580,19,6,2,683,Web,0
+572,Malinda,Lukash,61,female,18/01/2018,21626,El Pao,67,27009,48,4,7,619,Android,0
+573,Marita,Hartzogs,25,female,23/02/2022,89806,Bayan Tuohai,70,17940,44,12,15,517,Android,1
+574,Johann,Jaegar,71,female,06/10/2022,33638,Gaoqiao,104,16710,6,4,10,418,Web,1
+575,Fernande,Larmor,64,male,02/01/2018,106289,São Borja,86,2331,33,7,13,719,Web,1
+576,Papageno,Coverdale,54,male,04/10/2022,45084,Mercedes,53,37988,15,2,9,819,Web,0
+577,Wilie,Wollrauch,61,male,09/04/2021,42468,Nam Phong,37,10111,33,2,2,555,iOS,1
+578,Sky,Shawdforth,57,non-binary,17/08/2023,93873,Sapat,54,40056,34,1,13,846,iOS,1
+579,Nelle,Stappard,37,female,25/09/2023,145022,Coronel Vivida,92,1213,23,4,1,372,Android,1
+580,Gard,Trematick,40,non-binary,10/10/2022,99778,Qingchuan,28,46155,87,11,8,520,iOS,0
+581,Othilia,Covet,47,female,29/08/2024,117834,Pasirpanjang,46,48910,74,4,3,513,iOS,0
+582,Kikelia,Tortoise,63,female,16/10/2019,144323,Tiedonglu,114,9872,48,8,8,553,Web,0
+583,Giralda,Sazio,35,male,12/04/2021,132192,Nizui,51,31007,0,0,8,400,Android,1
+584,Bertine,O'Griffin,30,male,19/02/2023,38446,Ciénaga,110,10748,80,5,5,527,Android,0
+585,Lawton,Rowland,74,male,05/04/2022,67263,Aqsay,51,16610,25,4,10,515,iOS,0
+586,Vern,Grosier,63,female,06/12/2018,145138,Vítkov,61,38021,59,3,8,326,Web,0
+587,Morse,Bolino,62,female,27/09/2023,23726,Anjirserapat,113,27119,77,5,7,434,iOS,0
+588,Bondon,O'Donovan,35,female,02/09/2018,60354,Budzów,84,36713,57,9,1,390,Web,0
+589,Errol,Boij,53,male,26/01/2018,88480,Piteå,23,2271,65,4,6,599,iOS,1
+590,Della,Cosgry,44,male,19/07/2023,63128,Nīca,119,11989,74,7,3,383,Android,1
+591,Natale,Eede,55,male,13/03/2019,46899,Lusacan,2,8767,64,5,10,570,Web,1
+592,Erminie,Moller,18,female,20/02/2019,94558,Düsseldorf,66,17755,88,0,11,714,iOS,0
+593,Datha,Barnet,20,male,23/12/2021,88432,Maras,39,9361,35,7,11,517,iOS,0
+594,Adey,Vlahos,46,male,09/02/2023,88385,Biscoitos,85,12554,4,12,4,331,iOS,0
+595,Meir,Aleksashin,37,female,17/10/2019,98948,Araal,102,2111,20,3,0,776,Android,0
+596,Eveline,Dorkens,35,female,04/08/2021,91795,Bongor,104,8891,86,9,2,557,iOS,1
+597,Luce,Rolfo,19,female,07/09/2020,33707,Gunan,96,23305,62,3,2,335,Android,0
+598,Wendy,Shotboult,40,male,19/06/2024,122264,Ceerigaabo,101,25224,33,11,8,840,Android,0
+599,Beryle,Sworder,21,non-binary,11/12/2021,106320,Mamara,99,3171,29,5,0,344,Android,0
+600,Zach,Guyton,62,female,27/09/2023,105051,Korenovsk,88,40688,33,10,1,843,iOS,0
+601,Olivero,Fretwell,19,female,28/11/2020,134124,Opochka,38,9195,86,9,9,503,Android,0
+602,Sallyann,Branch,32,female,17/09/2024,83073,Parigi,9,30551,67,1,7,608,iOS,0
+603,Francisca,Fattorini,25,male,24/10/2022,123441,Priekulė,101,20907,1,12,15,797,Android,1
+604,Blithe,Plumm,51,female,26/06/2019,91767,Al Maḩallah al Kubrá,46,16695,2,11,15,408,Android,0
+605,Josie,Camus,34,male,17/09/2022,133743,Sinegorskiy,63,17933,45,5,7,415,Android,0
+606,Barbey,Pignon,55,non-binary,11/04/2023,39654,Sambong,69,30224,90,4,1,393,iOS,1
+607,Trista,Wiskar,26,female,24/03/2023,15319,Souto,61,18053,74,12,8,481,iOS,0
+608,Vania,Heatly,62,female,18/02/2023,123807,Columbia,107,5511,35,7,3,787,Web,0
+609,Masha,Rideout,73,male,02/08/2019,121205,Abreus,17,43642,33,10,8,780,iOS,1
+610,Myrtia,Lambole,19,female,17/05/2024,39858,Kai,47,13944,56,9,6,617,Android,0
+611,Pail,Fri,33,female,04/03/2024,78334,Dongqianhu,63,14835,31,9,13,711,Web,0
+612,Brandais,Binion,32,male,23/02/2020,116027,Sabá,94,43907,53,9,8,776,Android,0
+613,Carilyn,Myatt,22,male,08/10/2022,87903,Luotang,69,29019,70,5,10,320,Android,0
+614,Janeczka,Galbreath,45,female,21/12/2024,137323,Ngora,103,26959,39,1,9,761,Web,0
+615,Irvin,Sanpere,51,non-binary,23/10/2024,83577,Uryupinsk,41,35854,57,12,12,772,iOS,1
+616,Werner,O'Regan,67,female,02/07/2022,35647,Lewobelek,68,34518,72,7,1,676,Android,0
+617,Dalia,Metzke,38,female,09/09/2024,57667,Taoyuan,14,47360,42,6,10,526,iOS,1
+618,Anderson,Tarte,64,male,02/06/2021,54500,Songyuan,89,25043,22,12,6,795,iOS,0
+619,Raviv,Donn,25,male,22/05/2019,25469,Warungsugan,107,31164,4,2,5,673,Android,0
+620,Belvia,Renn,75,female,05/07/2022,80662,Kahnūj,93,4115,50,8,4,562,Web,0
+621,Ketti,Bratchell,29,male,12/10/2018,27570,Uryupinsk,51,2462,22,3,4,680,Web,0
+622,Orton,Cosyns,41,male,23/11/2021,20437,Adamantina,78,17226,17,6,9,383,iOS,0
+623,Kacie,Stutter,53,male,10/02/2022,56215,Cláudio,43,46151,3,6,1,704,Android,0
+624,Rafaela,Dorre,62,female,16/09/2022,123794,Bagu,4,3827,47,3,5,674,Android,0
+625,Rena,Karp,51,male,20/02/2020,119970,Melaka,35,7546,26,5,8,379,Android,0
+626,Sari,Murthwaite,20,male,23/09/2019,138471,Zhangcun,49,409,86,4,11,834,iOS,0
+627,Donny,Clunan,23,male,06/05/2024,22774,Xiagang,6,5815,20,7,5,585,iOS,0
+628,Felicle,Ritmeyer,68,female,21/03/2024,44421,Hörby,33,41096,8,8,9,493,iOS,0
+629,Veronike,McGlue,21,female,24/10/2020,64349,Kotri,0,3304,3,7,15,518,Web,0
+630,Vickie,Schubert,27,female,08/06/2022,96072,Kadipaten,89,1943,33,0,15,659,iOS,1
+631,Cecil,Lacknor,34,male,08/02/2024,136971,Fuxing,23,3369,77,1,6,435,iOS,1
+632,Oralie,Emberton,57,male,06/01/2023,106372,Daye,18,8264,13,9,6,475,iOS,0
+633,Carlo,Santos,20,male,06/11/2021,54148,Añelo,98,27289,22,4,4,585,Web,1
+634,Allegra,Whitney,43,male,24/12/2020,70439,Brańsk,97,33788,16,4,6,709,Android,0
+635,Tammara,Wright,65,male,17/02/2021,48957,Merkezköy,7,22344,56,8,4,632,Android,0
+636,Tracy,Theakston,30,female,06/05/2021,134215,Estancia,87,35412,81,7,4,302,iOS,0
+637,Samson,Cancellario,72,female,25/10/2022,108321,Novoderevyankovskaya,118,40733,64,6,14,686,Android,1
+638,Demetris,Matoshin,44,male,28/07/2022,61297,Warungawi,116,45372,44,8,3,622,Web,1
+639,Isabelle,MacAskie,54,male,22/06/2022,73929,Mawlaik,60,17070,87,8,14,656,Web,0
+640,Welch,Littleproud,51,male,29/04/2024,64486,Östersund,13,25844,44,12,1,447,Web,0
+641,Thorndike,Bruhnicke,32,male,28/09/2021,98994,Haninge,93,4424,62,0,3,729,Web,0
+642,Lona,Dagleas,47,non-binary,05/12/2023,88605,Quán Hàu,83,45980,63,1,0,655,iOS,0
+643,Stacia,Morris,37,female,22/10/2024,135086,Yuncheng,32,15020,59,7,3,700,Android,0
+644,Merrily,Hasser,35,male,25/03/2020,124579,Werasari,29,32533,66,2,4,797,iOS,0
+645,Kareem,Chittie,56,male,15/06/2019,53996,Buliok,35,31848,12,6,11,309,Android,0
+646,Igor,Adam,55,female,30/04/2024,76619,Lelydorp,17,16486,57,5,6,838,iOS,0
+647,Odelle,Cawsy,20,male,07/12/2021,60258,Lumby,20,32986,22,5,12,539,iOS,0
+648,Elia,Bockett,53,male,23/07/2019,61535,Rosh Ha‘Ayin,1,28693,73,11,9,678,Web,0
+649,Jeni,Servant,19,male,24/07/2018,107000,Limbuhan,77,40467,59,11,2,794,Android,1
+650,Sebastiano,Tidman,74,female,19/01/2020,144234,Sokol’skoye,110,35776,58,11,14,323,Android,1
+651,Iggy,Birney,44,male,27/01/2023,73249,Luangwa,65,9620,11,4,11,621,iOS,0
+652,Veronique,Musprat,23,male,03/08/2020,104006,Baardheere,94,11356,51,2,2,792,Android,0
+653,Helaina,Paprotny,25,female,29/10/2024,38677,Limón,39,36020,83,11,11,664,Android,0
+654,Celesta,Scarrisbrick,72,female,02/05/2018,64221,Xianyuan,73,42617,34,9,9,487,iOS,1
+655,Demetrius,Jannaway,52,female,13/02/2021,148254,Simuay,101,41735,89,11,10,657,Android,0
+656,Catha,Anglish,54,male,16/08/2022,82689,Beizheng,38,12482,14,8,10,610,iOS,1
+657,Lauralee,Andreazzi,65,male,12/11/2019,106245,Rungis,86,43641,90,9,0,387,Web,0
+658,Cornell,Kalinsky,52,female,03/06/2021,21476,Weekombaka,35,484,49,11,14,508,Android,1
+659,Toinette,Frean,32,male,01/03/2023,112270,Xingxi,99,25906,64,8,13,466,Android,1
+660,Rooney,Paylie,55,male,07/11/2020,146290,Mangarine,81,1066,85,2,8,322,Android,1
+661,Nita,Cowpe,46,male,15/08/2019,36169,New Iloilo,1,49790,32,0,5,808,Web,0
+662,Marget,Gregson,40,female,01/05/2023,109425,Romba,14,1177,17,2,6,328,Web,1
+663,Susana,Iacoviello,22,female,04/05/2023,115957,Danjiangkou,111,43923,20,0,8,642,iOS,0
+664,Jenica,Lavallin,19,male,14/04/2020,47876,Prakhon Chai,91,39196,32,6,15,586,Android,0
+665,Cariotta,Cornfield,70,non-binary,18/11/2023,67205,Nanlu,3,13502,65,0,6,435,iOS,1
+666,Cristie,Swedeland,39,female,11/08/2019,78352,Colos,1,14516,73,10,1,507,iOS,0
+667,Evan,Penniall,25,female,16/07/2020,48995,Racławice,60,38172,6,4,9,517,Android,0
+668,Coralyn,Thurling,58,female,18/04/2019,141541,Libertad,111,8893,73,9,10,407,Android,0
+669,Ofella,Balam,35,female,27/01/2019,96736,Sokol’skoye,17,26901,57,8,8,395,Web,0
+670,Randie,Haggie,25,non-binary,15/05/2021,35964,Viseu,41,35934,27,6,8,428,Android,0
+671,Gustavus,Burgwin,35,female,18/04/2024,23131,Ford,70,48896,17,5,9,640,Android,0
+672,Allix,Crumpton,57,female,27/05/2019,128315,Ketang,39,11409,86,11,0,576,Android,1
+673,Baillie,Kittoe,66,female,08/03/2024,97877,Mingoyo,81,7233,37,10,10,318,iOS,0
+674,Neal,Tice,19,male,03/06/2023,133247,Xinpu,43,13444,81,1,14,601,Web,0
+675,Jessalin,Swayland,68,male,19/02/2024,67926,West Palm Beach,34,11231,3,9,9,474,iOS,0
+676,Beale,McEwan,69,male,01/11/2020,124015,Afikpo,78,40631,26,4,6,657,iOS,0
+677,Clemens,Oldrey,74,female,16/10/2024,133488,Houzhai,14,29014,26,5,9,429,Android,0
+678,Rudiger,Giraudeau,37,female,28/10/2024,26301,Tecpán Guatemala,43,7624,22,3,12,337,Android,1
+679,Reinwald,Baulcombe,61,female,23/01/2023,54128,Secunda,29,33845,78,10,5,805,Web,0
+680,Elizabet,Tomaini,50,male,14/04/2021,119733,Firmat,15,43349,66,0,13,440,Android,1
+681,Enrika,Bradshaw,35,non-binary,30/07/2018,41491,Paris 12,12,16514,79,12,2,678,Android,0
+682,Pernell,Rojel,60,male,06/01/2018,129587,Nyíregyháza,82,33718,12,8,13,361,iOS,1
+683,Elke,Schimon,40,male,08/09/2024,106498,Konče,39,4803,58,5,10,486,Android,1
+684,Mirelle,Bartelet,23,female,01/02/2022,48939,Pa Sang,101,13396,2,5,4,525,iOS,0
+685,Meara,Bartosch,75,female,21/04/2021,47644,Maruoka,55,1665,76,8,12,697,iOS,0
+686,Ollie,Milam,53,male,07/08/2022,91417,Hōjō,116,26538,58,10,7,540,Web,1
+687,Jason,Vogele,63,male,25/02/2019,92441,Mochudi,65,15685,29,3,2,629,iOS,1
+688,Elvyn,Trouel,67,female,29/06/2023,135314,Louisville,104,48520,23,9,1,434,Android,1
+689,Lexie,Diben,31,male,24/04/2019,69796,Savran’,23,38832,54,9,0,666,Android,0
+690,Dalis,Kiddle,49,female,17/09/2018,79317,Hushi,65,8322,89,3,3,502,Android,0
+691,Cob,Rykert,52,male,15/12/2020,113976,Juan de Acosta,71,10437,6,6,1,711,iOS,0
+692,Selma,Griffith,68,male,22/06/2019,41703,Guisijan,63,40080,11,0,11,830,iOS,0
+693,Cassie,Daft,26,female,07/12/2020,69641,Xicheng,105,44444,4,11,0,396,iOS,0
+694,Jessey,Walshe,42,non-binary,23/11/2024,110411,Trelew,9,23292,89,4,6,366,Android,0
+695,Shelley,Botterell,56,female,24/08/2021,104701,Guisser,100,4746,58,11,4,504,iOS,0
+696,Valentine,Cridlin,31,male,10/10/2020,133702,Święciechowa,8,24511,57,9,9,547,Web,1
+697,Rozele,Rickett,44,female,09/11/2022,31680,Gangtun,58,42625,30,7,4,846,Web,0
+698,Mel,Van Vuuren,23,male,03/02/2020,86376,Zangbi,120,30940,55,8,1,551,Android,0
+699,Jayne,Blazej,36,female,24/11/2018,95018,Teroual,31,45529,66,11,15,589,iOS,1
+700,Dita,Ausiello,43,female,09/11/2018,114310,Krajan Caluk,14,71,65,1,7,417,iOS,0
+701,Arlette,Abry,72,male,01/09/2019,27531,Sestroretsk,76,9674,31,3,10,345,Android,0
+702,Banky,Rutherforth,31,male,16/06/2020,131201,Airmata,93,24504,69,10,0,664,Web,0
+703,Otho,Garaway,34,female,02/08/2018,62855,Moulins,114,16679,82,8,0,481,Android,0
+704,Fremont,Scotchbourouge,55,female,24/06/2019,140044,Jamban,98,17502,43,9,1,448,iOS,0
+705,Sansone,Guntrip,41,male,30/07/2024,47413,Orlovo,66,20980,71,11,13,750,iOS,0
+706,Suki,Ryson,71,female,14/09/2024,79805,Bécancour,70,34181,29,12,2,751,Android,0
+707,Hannie,Pail,21,female,30/05/2021,84534,Konstantinovo,51,16961,17,5,11,676,iOS,0
+708,Dorothy,Huskinson,31,female,26/12/2020,92598,Sangongqiao,84,23906,16,5,3,535,Web,0
+709,Henrik,Canedo,61,male,30/06/2019,119639,Solnechnoye,67,22533,27,1,1,506,iOS,1
+710,Kata,Elles,46,female,08/05/2018,70861,Cergy-Pontoise,116,3506,0,2,0,578,Android,0
+711,Allan,Hart,20,female,10/04/2020,142043,Ipubi,112,26951,86,8,6,544,iOS,0
+712,Bertrando,Gavozzi,44,female,14/06/2023,77451,Loay,15,14876,60,1,7,621,Android,1
+713,Tawsha,Van den Velden,62,non-binary,31/03/2023,46454,Zaragoza,6,31197,62,5,14,304,Android,0
+714,Dacia,Pero,62,male,25/06/2023,105831,Araxá,57,27742,22,9,5,808,Android,1
+715,Lorna,Kelling,31,female,22/01/2023,38473,Ndano,19,27065,57,10,2,758,Web,0
+716,Vivyanne,Chisnall,38,male,06/04/2021,111975,Miandrarivo,117,2941,11,1,7,616,iOS,0
+717,Merrily,Ceaplen,52,male,25/09/2018,120842,Chilecito,19,659,86,0,4,567,Android,0
+718,Ajay,Patrono,70,male,28/07/2020,115878,Yelizavetinskaya,93,12371,56,8,6,705,iOS,0
+719,Maddie,Rushford,24,female,28/10/2019,142546,Simenqian,57,1000,18,12,3,555,Android,0
+720,Pierson,Shorte,61,male,30/12/2021,104972,Vasil’yevskiy Mokh,119,21580,28,5,2,356,Web,0
+721,Loria,Haruard,33,female,06/11/2020,73813,Narail,100,36944,70,0,10,346,Android,0
+722,Esmeralda,Foucar,59,female,20/08/2024,34590,Nahiyat Ghammas,1,34257,28,8,8,833,iOS,0
+723,Adda,Harroll,19,male,02/03/2024,82941,Urrao,64,45735,72,2,7,416,iOS,0
+724,Edyth,O'Currane,25,male,10/12/2019,52539,Mambago,91,26925,57,7,1,625,iOS,1
+725,Jere,Scudders,20,female,07/10/2021,104314,Musashino,12,7375,58,11,14,763,Web,0
+726,Audra,Sanham,29,male,05/01/2018,70120,Sukacai Tengah,0,26238,14,4,6,378,Web,0
+727,Dorree,Coners,66,non-binary,12/07/2023,93549,Port Saint John’s,16,29436,25,12,2,804,Android,0
+728,Nora,Haseldine,35,non-binary,05/07/2021,135696,Aegela,52,48197,43,0,2,815,iOS,0
+729,Myranda,Shoemark,25,non-binary,30/06/2021,23068,Danao,49,31778,40,3,5,744,Android,0
+730,Emyle,Jennick,39,female,19/09/2023,131604,Masipi West,54,42455,70,2,7,740,Android,1
+731,Clare,Barthrup,54,female,28/12/2021,86120,Kyoto,84,30670,59,0,0,304,Android,1
+732,Annie,Petcher,51,female,03/01/2020,102294,La Roche-sur-Yon,70,30884,10,0,11,391,Android,0
+733,Fitz,Nendick,52,non-binary,27/08/2021,124041,Larap,56,7518,7,4,5,627,iOS,1
+734,Alvie,Rubes,51,non-binary,10/09/2019,133229,Fort Smith,112,47155,60,12,13,783,Android,1
+735,Elisabet,Schrader,67,male,19/08/2019,30777,Lérida,119,38728,29,1,14,467,Android,0
+736,Gail,Loukes,67,male,01/08/2023,133773,Heyu,49,14961,33,1,9,674,iOS,1
+737,Onida,Acarson,62,female,30/10/2023,144367,Liozon,61,36085,45,7,1,577,Android,0
+738,Pooh,Tottem,38,female,01/04/2019,120606,Kangping,38,3739,59,7,15,512,iOS,0
+739,Datha,Wookey,19,male,28/04/2023,91950,Tunasbaru,55,21276,23,10,15,843,Web,0
+740,Shandeigh,Vaskin,50,female,18/05/2020,77633,Zhifang,49,43558,14,4,13,751,Android,0
+741,Delora,Tatton,36,male,19/12/2024,37926,Lipahan,10,1724,21,7,9,782,Web,0
+742,Hobard,Mains,46,female,17/02/2020,119178,Empedrado,35,37824,85,10,14,662,iOS,0
+743,Cloe,Dunnet,75,male,06/05/2022,58605,Nanfeng,51,38953,63,9,4,777,iOS,0
+744,Karol,Davidovici,60,male,15/11/2021,49143,Suwaduk,36,41138,88,8,10,600,Android,0
+745,Jemmy,Charity,45,male,26/02/2022,71364,Cibunar,22,41547,44,5,6,586,iOS,0
+746,Teddie,Loghan,50,female,11/04/2020,79500,Puerto Castilla,21,7033,64,1,2,808,iOS,0
+747,Linell,Tassel,37,male,21/11/2022,58126,Cosne-Cours-sur-Loire,99,9213,66,12,14,510,Android,0
+748,Kippy,Pretty,36,male,11/08/2024,38907,Cihaur,28,41055,48,2,0,794,iOS,0
+749,Sigismundo,Krolle,74,male,13/01/2021,17114,Giawang,20,17340,15,2,8,848,Android,0
+750,Cate,McAw,34,female,27/08/2020,50867,Kuala Lumpur,22,45811,15,11,1,607,Web,0
+751,Maxie,Learoyd,58,female,24/06/2018,27550,Rosice,42,42501,14,11,8,625,iOS,0
+752,Mathilda,Stannett,73,male,29/09/2018,71854,Sokodé,11,1746,10,8,1,730,Android,0
+753,Sonni,Gawthorp,58,female,07/12/2018,79824,Sfax,99,46182,24,0,14,627,iOS,1
+754,Kania,Dulanty,27,female,24/04/2024,98087,Oslo,62,3357,20,12,8,742,Android,0
+755,Barnard,Cuckoo,23,female,07/03/2019,79726,Postoloprty,40,16566,2,0,12,584,iOS,0
+756,Lacie,MacKibbon,73,male,27/10/2021,42116,Enonkoski,96,15370,75,4,9,504,Android,0
+757,Nat,Baly,74,male,09/10/2019,75667,Otradnyy,8,13172,47,1,6,553,Web,0
+758,Kizzie,Lingwood,61,non-binary,14/08/2024,24194,Dayushu,113,24595,90,8,4,832,Web,0
+759,Maura,D'Alwis,57,male,17/06/2019,109235,Pilar do Sul,106,36895,7,5,7,831,Android,0
+760,Rad,Keddle,66,female,29/07/2020,142900,Magsaysay,83,9249,27,4,15,394,Android,1
+761,Nissa,McReynold,45,female,22/10/2018,95364,Kamakura,46,41963,1,12,10,307,Android,0
+762,Krissy,Viollet,39,male,21/09/2023,114177,Ruokolahti,59,7392,12,6,13,830,iOS,1
+763,Lilyan,Fridaye,25,female,09/03/2019,49885,Maulawin,111,19134,47,11,15,784,Android,1
+764,Jeramie,Plackstone,22,female,04/10/2024,116422,Unisław,35,2874,88,2,3,570,Android,0
+765,Elita,Orys,64,male,12/11/2024,133681,Harrison Brook,36,26513,71,5,10,328,Web,0
+766,Jaine,Durrad,21,male,01/06/2023,63244,Navan,28,30453,17,3,9,738,Android,1
+767,Melody,Woodrough,69,female,12/11/2018,82154,Al ‘Ulá,95,21884,5,2,3,321,iOS,0
+768,Cam,Packman,49,female,04/11/2021,64240,Zhangjiayuan,112,7887,79,0,10,532,Android,1
+769,Mariann,Stevani,55,female,06/11/2020,136163,Gaoqiao,1,22281,81,5,4,821,iOS,0
+770,Chadwick,Klimuk,54,male,04/05/2019,25386,Gardēz,117,12633,66,2,8,596,iOS,0
+771,Prentice,Johl,75,male,13/02/2021,59656,La Estancia,4,26188,79,11,8,846,iOS,0
+772,Reina,Comelli,21,male,01/12/2023,20220,Íasmos,19,12977,7,1,10,380,Android,0
+773,Belinda,Giampietro,63,male,29/12/2021,103497,Dadeldhurā,10,29618,1,9,9,740,iOS,0
+774,Justis,Chafer,62,male,14/07/2024,77548,Tushi,20,26135,53,12,10,774,Android,0
+775,Haywood,Van den Dael,68,female,13/11/2018,87660,Bromma,14,1909,80,4,3,377,iOS,0
+776,Bobby,Rosenberg,27,female,28/07/2022,96138,Cihaur,20,14233,16,5,12,768,iOS,0
+777,Silvain,Damiata,19,male,18/01/2019,93084,Quintã,43,17514,40,6,14,652,Android,0
+778,Conchita,Yeardley,23,male,01/09/2020,88340,Shigony,29,19649,33,11,12,368,iOS,0
+779,Mercedes,Worrell,52,female,02/07/2019,63946,Beutong Ateuh,87,19682,42,0,11,738,Web,0
+780,Elyse,Eltringham,64,female,08/08/2020,55798,Roanoke,89,36085,3,7,4,421,iOS,1
+781,Boyd,Stedell,28,female,19/04/2023,114241,Mobile,6,20338,75,5,15,604,Android,1
+782,Fabian,Gionettitti,26,male,01/07/2021,90606,Madolenihm Municipality Government,102,34948,11,1,6,592,iOS,0
+783,Arni,Ryce,68,female,16/09/2020,138511,Jargalant,17,24586,49,5,8,515,Web,1
+784,Susanne,Newstead,24,female,27/02/2020,101579,Masuda,21,23569,6,6,0,624,iOS,1
+785,Davon,Rubbert,43,female,19/02/2018,48030,Xiguantun Muguzu Manzuxiang,82,25206,61,5,14,398,Web,1
+786,Jessie,Matskevich,49,female,10/07/2022,136853,Pergan,59,37157,16,4,12,348,Android,1
+787,Gwenneth,Elvidge,26,male,21/07/2021,60151,Fukushima-shi,45,23159,46,2,0,592,Android,1
+788,Tremaine,Cubbin,42,female,10/03/2022,124805,Oum Hadjer,108,19047,75,3,7,611,Android,0
+789,Etan,Piscopo,37,male,07/12/2021,94982,Basiao,120,571,0,9,7,741,Android,0
+790,Durward,Gratrex,27,female,03/09/2020,134483,Fushë-Muhurr,71,37848,0,6,10,404,iOS,1
+791,Krystal,Duckit,55,male,21/06/2019,45866,Xing’an,98,23731,30,12,10,657,iOS,1
+792,Yul,Roubert,67,female,12/10/2021,53589,Salitral,26,14145,0,1,9,521,Web,0
+793,Timmie,Exley,28,male,21/07/2024,53695,Madolenihm Municipality Government,84,46298,37,2,8,321,Web,1
+794,Reine,Maddison,41,female,19/02/2023,46288,Shangma,19,23335,69,0,6,741,Android,0
+795,Annelise,Mecozzi,19,male,20/01/2022,27640,Gnojnica,107,30284,71,5,15,378,Android,0
+796,Vinny,Yannoni,74,female,31/05/2020,15767,Shemursha,71,42369,56,4,2,457,iOS,1
+797,Pearle,McClancy,31,female,11/09/2018,68671,Pácora,22,6376,74,2,9,594,Android,0
+798,Jourdain,Knotte,69,male,20/02/2019,111734,Wenquan,112,15512,48,12,1,841,iOS,0
+799,Pembroke,Cumes,39,male,14/03/2024,57629,Penápolis,89,7696,83,5,0,588,Web,1
+800,Mart,Aaronson,21,female,30/08/2023,69344,Santuario,98,41325,30,1,13,799,iOS,1
+801,Sarge,Peters,40,male,10/11/2019,60319,Macayug,30,27718,28,11,3,700,Web,0
+802,Calley,Darlison,34,male,13/09/2024,110225,Makiyivka,92,19698,2,3,5,843,iOS,0
+803,Elana,Kitteman,70,male,26/07/2020,49879,Jatiraya,67,12447,90,4,15,385,Android,1
+804,Natty,Sollon,34,female,15/07/2018,49874,Varėna,119,4509,80,5,15,423,Web,0
+805,Billie,Kellard,19,female,04/02/2022,62200,Anding,52,12877,30,5,9,543,Web,1
+806,Addy,Norkutt,42,male,27/02/2021,115726,Moncada,47,34332,56,8,11,792,Web,0
+807,Gabe,Semper,72,non-binary,24/09/2021,40793,As Saffānīyah,8,48489,8,2,10,633,Web,0
+808,Nicko,Shepheard,18,male,19/08/2022,65827,Caçador,24,46032,38,5,3,371,Android,0
+809,Derick,Wormleighton,65,female,05/11/2024,37405,Los Angeles,32,25494,66,9,12,477,Web,0
+810,Melitta,Gillions,26,female,12/09/2024,120182,El Alto,112,8247,71,5,14,498,Web,0
+811,Valina,Shelf,56,female,11/05/2019,109965,Puget-sur-Argens,103,49318,28,2,8,624,Android,0
+812,Melesa,Lethcoe,71,male,10/03/2022,83132,Omaha,18,26645,67,9,8,786,iOS,1
+813,Malorie,Harp,66,non-binary,12/06/2018,95507,Getung,68,1116,15,6,2,312,Android,0
+814,Ernesta,Smallpiece,59,female,25/12/2021,22280,Vyborg,100,16687,83,6,7,740,iOS,0
+815,Trudi,Sineath,67,male,29/07/2020,104797,Vin’kivtsi,24,908,33,6,6,576,iOS,0
+816,Dun,Mehew,18,female,09/03/2019,127408,Wa,19,2006,48,1,11,470,Android,0
+817,Jewel,Baswall,75,male,18/03/2018,72000,Sisŏphŏn,4,13142,86,8,6,745,Android,0
+818,Alene,Rycraft,60,female,12/04/2021,89931,Munjungan,42,19605,57,11,5,652,Android,0
+819,Marcia,Bysh,34,male,03/02/2024,51238,San Fernando del Valle de Catamarca,36,48920,12,8,5,521,iOS,0
+820,Case,Vaggs,29,male,03/10/2021,78788,Klimontów,30,21411,38,7,3,657,Web,1
+821,Lane,Kerslake,55,male,18/02/2022,130425,Energetik,60,33296,70,12,5,727,Android,0
+822,Matthiew,Moberley,29,female,11/04/2023,87691,Huangchi,116,27841,32,11,12,353,Android,0
+823,Trixy,Osbourn,21,female,24/02/2019,84524,Jiangbu,118,23765,43,12,2,392,Android,1
+824,Gregorio,Le - Count,75,non-binary,01/01/2020,86501,Washington,52,34931,36,9,6,596,Android,0
+825,Dorie,Hutley,73,female,19/05/2018,19103,Panyindangan,99,19214,23,1,2,761,Web,0
+826,Mendy,Hursey,36,female,12/02/2019,143460,Rocky Mountain House,94,23483,30,9,4,369,Android,1
+827,Guenna,Pasmore,62,female,03/07/2019,38482,Reconquista,103,40590,50,8,7,737,Web,0
+828,Lezlie,Fetherston,20,female,06/05/2022,62448,Shiling,50,18017,18,8,7,500,Android,0
+829,Quinlan,Suche,52,non-binary,08/04/2022,68514,Ansan-si,119,10103,48,12,12,302,iOS,0
+830,Suzann,Barthel,58,male,01/12/2022,148021,Xiongshan,50,27785,61,8,0,608,Android,1
+831,Bruce,Rodrigues,48,male,25/04/2024,38366,Hushan,64,3065,49,3,11,665,iOS,0
+832,Isis,Kestin,43,male,01/08/2024,106589,Kalwaria Zebrzydowska,100,36348,50,9,10,675,Android,0
+833,Barbabra,Delmonti,23,male,15/02/2020,68250,Nezamyslice,71,32145,10,7,8,514,Android,0
+834,Lil,Spacy,63,female,17/12/2019,69226,Arlington,74,2293,35,8,4,545,Android,0
+835,Trixy,Huleatt,72,male,14/02/2018,68820,Pico da Pedra,76,29344,47,2,13,787,iOS,0
+836,Hestia,Luty,45,male,11/11/2023,60483,Bom Jesus do Itabapoana,62,7763,32,0,5,585,Android,1
+837,Donny,Antrobus,30,non-binary,15/04/2018,89614,Taiyang,37,21835,30,8,13,611,iOS,0
+838,Kienan,Artrick,25,female,21/04/2021,98667,Herrán,88,16770,73,6,1,444,Android,0
+839,Roderick,Eglinton,23,non-binary,27/11/2023,122067,Casal do Sapo,100,49336,29,6,5,781,Web,0
+840,Phoebe,McGurk,72,female,22/11/2022,53074,Larvik,71,36702,57,10,9,624,iOS,1
+841,Juan,Feeham,33,male,13/03/2018,116630,San Jose,119,35090,55,4,3,398,iOS,1
+842,Mildrid,Yesinov,38,male,09/11/2024,75704,Fontem,18,44363,47,10,8,538,iOS,1
+843,Frederigo,Bramo,66,female,07/07/2022,69599,Bundibugyo,40,31770,58,9,0,634,iOS,1
+844,Katti,Boscher,27,male,17/07/2023,145305,Pecoro,48,41529,45,7,10,594,iOS,1
+845,Sofia,Kilmaster,58,female,06/11/2023,62714,Faranah,108,2726,81,11,11,599,Android,0
+846,Isak,Splevin,37,female,16/11/2019,84232,Oslo,69,21575,18,10,13,330,Android,1
+847,Amalita,Crothers,62,male,02/04/2020,56438,Warwick,75,12178,25,10,11,446,Web,0
+848,Concordia,De Ambrosi,42,female,16/03/2024,89696,Novominskaya,16,19658,65,5,10,707,iOS,0
+849,Mick,Chatain,38,male,17/07/2019,112493,Honolulu,8,12632,3,10,0,624,iOS,0
+850,Lida,Braddon,61,male,30/05/2022,142865,Hitoyoshi,47,16320,65,0,8,346,Android,1
+851,Art,Filer,48,male,26/01/2021,136308,Warungtanjung,11,5167,15,11,5,502,Android,0
+852,Claudie,Hannum,59,female,19/06/2022,85962,Hedong,84,8480,75,4,1,603,Android,1
+853,Jobie,Sixsmith,31,female,12/01/2023,73883,Luisiana,50,6890,46,11,5,683,Web,0
+854,Trix,Kleingrub,38,male,18/03/2018,87378,Águas Belas,32,41630,82,5,9,746,Android,0
+855,Clemmy,Cornil,21,male,07/10/2024,17003,Sumuragung,46,38651,68,11,9,687,Android,0
+856,Demetria,Trevain,50,female,30/07/2023,88076,Lainqu,90,27864,70,10,10,597,iOS,0
+857,Jordon,Shurlock,27,male,24/01/2021,120018,Lindavista,63,8921,12,1,3,406,Android,0
+858,Cordy,Seary,25,male,13/08/2020,145753,Lajeado,23,47770,24,5,14,351,Android,0
+859,Basile,Collet,68,female,31/07/2019,29367,Al Hilāliyya,9,18677,90,7,4,772,Android,1
+860,Rudy,Cantrill,37,female,10/03/2018,73373,Huanggangshan,31,49720,65,8,8,509,iOS,0
+861,Mordecai,Brazear,24,non-binary,22/09/2020,55234,Tongqian,89,27343,11,2,10,539,Web,1
+862,Charita,Davinet,51,female,19/11/2019,70205,Dadong,116,33769,33,4,13,742,Web,0
+863,Astra,Thacker,35,male,22/06/2019,42235,Baguio,107,9272,45,5,6,722,Web,0
+864,Judas,Batters,63,male,07/12/2024,147052,Primorskiy,55,933,10,3,10,790,Android,1
+865,Vida,Medina,22,female,28/10/2021,92460,Tiguha,67,14910,71,12,13,711,iOS,1
+866,Goran,Gajewski,56,male,02/01/2018,69409,Castanhal,72,34930,39,1,11,303,Android,0
+867,Umeko,Briat,44,female,25/07/2021,146606,Bergen,87,24000,30,4,7,545,Android,0
+868,Jory,Yakunkin,49,female,03/12/2021,32610,Uglich,43,27612,56,4,14,809,iOS,0
+869,Lionello,Strotton,66,female,10/02/2019,89987,Khorramābād,62,37615,44,7,6,444,iOS,1
+870,Antoni,Tottem,69,male,28/10/2023,90383,Iradan,1,3103,68,5,12,483,iOS,0
+871,Bancroft,Strowger,30,male,11/07/2019,38337,Kilcullen,3,7997,73,10,7,507,Web,0
+872,Aleda,Gadie,24,male,03/07/2019,75962,Funza,78,12563,17,7,12,439,iOS,0
+873,Durand,Follacaro,61,female,16/01/2018,105165,Yasothon,120,22531,87,9,11,589,iOS,0
+874,Bryn,Siggee,44,female,20/05/2023,30390,Maebashi-shi,100,15930,77,4,13,654,Web,1
+875,Camella,Moan,70,male,02/08/2022,79176,Kokaj,45,39954,73,11,10,315,Android,0
+876,Bealle,Shoobridge,55,female,23/03/2022,111775,Moate,27,44802,59,12,5,774,iOS,0
+877,Iosep,Wissby,29,female,21/06/2023,110814,Shishan,91,28888,47,3,4,597,iOS,0
+878,Ferne,Gallifont,34,male,12/10/2024,88450,Kireyevsk,4,43855,9,11,14,383,Android,1
+879,Torin,Truse,54,female,30/04/2024,138022,Chiguang,55,24469,84,9,10,801,iOS,1
+880,Karee,Fieldgate,60,female,24/08/2018,133203,São Miguel do Rio Torto,40,2975,63,12,15,660,Web,0
+881,Berkly,Goddard,40,female,04/08/2018,45237,Krapivna,39,22674,18,0,11,809,Android,1
+882,Mitch,Polden,28,male,29/06/2018,71343,Doba,51,40885,85,8,14,405,Android,0
+883,Avrit,Laville,23,female,11/01/2023,18253,Dayang,73,32888,23,4,4,666,iOS,0
+884,Hayes,Hubbins,59,female,27/01/2023,24294,München,1,8585,66,5,6,842,Web,0
+885,Demetris,Buckeridge,43,female,03/01/2019,124973,Kyzyl-Burun,5,39452,3,8,1,758,iOS,0
+886,Tomasine,Clubley,21,male,21/11/2019,82836,Muhos,60,20873,80,1,2,551,iOS,0
+887,Dot,Skidmore,58,male,13/02/2024,40930,Dongguan,60,26578,23,10,8,331,Android,0
+888,Anneliese,Warsap,39,female,29/08/2021,67208,Tsiroanomandidy,119,7402,33,4,3,833,Android,0
+889,Blancha,Crathern,50,male,05/12/2023,100918,San Juan,35,31615,38,1,8,786,iOS,1
+890,Hashim,Burdus,60,male,10/12/2020,148588,Bau,35,48620,35,12,14,757,Android,0
+891,Zacharias,Blewitt,73,male,28/08/2020,37281,Müllendorf,44,23220,75,2,15,795,Android,1
+892,Wilow,McLeman,43,male,23/09/2023,127489,Varadero,64,23219,11,0,7,710,Web,0
+893,Carlita,Frangleton,46,female,12/04/2024,26589,Yimnón,82,22637,8,8,0,309,Android,0
+894,Ilene,Le Leu,56,male,24/05/2020,50349,Birmingham,71,45668,12,3,7,317,Web,0
+895,Harley,Curnok,65,female,09/10/2018,94059,Anticala,6,29369,30,6,8,804,iOS,0
+896,Raeann,Lutwidge,38,female,12/03/2019,128150,Schifflange,58,16902,6,5,10,452,Android,1
+897,Kirby,Scrinage,46,female,25/03/2018,127860,Mzuzu,96,10132,74,11,0,388,iOS,0
+898,Catrina,Keiling,32,non-binary,05/01/2023,118544,Selínia,55,19825,43,0,10,575,Android,0
+899,Pate,Tweddle,28,female,22/10/2024,106031,Wuluo,39,4742,2,9,14,829,Android,0
+900,Skell,Mosedale,68,female,22/05/2019,106369,Hanam,53,20482,64,4,4,704,iOS,1
+901,Pancho,Jewess,65,female,26/06/2023,58785,West Jerusalem,30,22882,71,0,5,831,Android,1
+902,Corrine,Brymner,33,male,16/03/2020,99955,Sandakan,11,44236,7,3,9,842,Android,1
+903,Baron,Snoddon,65,female,25/10/2021,120166,Cibeureum,48,37741,56,4,9,629,iOS,1
+904,Germana,Naton,30,female,24/05/2021,45435,Bailu,80,29396,87,4,10,535,Android,1
+905,Spence,Bockmaster,22,male,10/12/2019,89871,Baita,120,10042,12,4,9,506,iOS,1
+906,Elena,Varfalameev,68,non-binary,14/11/2020,118477,Jibu,30,38552,33,8,11,731,iOS,0
+907,Kleon,Drabble,62,male,26/12/2023,118337,Hōfu,84,12570,60,2,10,812,Web,0
+908,Dorie,Di Francesco,27,female,26/02/2019,15546,Loangmaka,53,47207,41,1,14,680,Android,0
+909,Lawry,Rikard,47,male,05/10/2019,33009,Longjie,62,5880,90,3,3,601,Web,0
+910,Easter,D'Alessandro,43,male,23/03/2019,117530,Jankowice,111,5505,25,1,12,771,Android,0
+911,Reeba,Heiner,19,male,29/03/2019,124870,Fukui-shi,90,7210,57,3,6,584,iOS,1
+912,Keir,Capelow,24,male,09/05/2024,88726,Blachownia,22,39555,42,12,3,377,Android,1
+913,Rosalie,Rozanski,25,female,04/12/2018,25342,Almere Haven,51,7920,71,7,14,382,iOS,0
+914,Nathanil,Stevani,24,female,28/02/2022,36741,Lubin,62,39776,53,12,0,505,iOS,0
+915,Rebe,Braiden,38,female,01/06/2024,16701,Vilar do Monte,32,12943,18,2,12,484,Web,0
+916,Wilow,Di Iorio,49,male,17/01/2022,85783,Matanog,115,21509,85,0,8,371,iOS,0
+917,Jeffy,Di Gregorio,38,male,19/11/2021,18268,Echarate,76,1167,54,2,14,488,iOS,0
+918,Leila,Faughny,42,female,05/05/2020,86299,Yangdun,93,10027,18,5,6,564,Android,0
+919,Whitman,Zaniolo,45,male,06/01/2019,104173,Carahue,118,44161,67,2,4,373,Android,1
+920,Poul,Peatman,56,male,14/03/2022,34946,Quartier Militaire,52,14559,37,7,5,816,Web,0
+921,Elvira,Casbon,71,male,18/11/2021,33220,Jingling,51,33526,47,2,5,764,Android,0
+922,Lida,Blade,62,male,07/04/2023,80253,Sokol,9,38389,41,1,6,582,Android,0
+923,Linc,Wagen,19,female,14/12/2019,126549,Mulhouse,50,39206,5,1,10,807,iOS,0
+924,Rochell,Roke,26,female,08/09/2021,16348,Zharkent,73,39778,51,9,12,788,iOS,0
+925,Hiram,Chiechio,45,female,29/04/2018,61534,Banjar,26,2014,87,0,6,747,iOS,1
+926,Sibyl,Bacon,31,male,31/10/2021,84573,Oslo,47,20973,1,4,6,467,iOS,0
+927,Theodor,Wherrett,61,non-binary,06/12/2023,129894,Chenārān,94,5417,55,8,15,551,Web,0
+928,Ranee,Ronca,32,female,16/12/2024,92090,Rio Claro,28,21717,56,4,9,829,Web,0
+929,Alphonso,Lensch,61,male,04/12/2023,130668,Senj,9,47614,43,5,7,670,iOS,0
+930,Orbadiah,Twinn,34,male,06/05/2018,17622,Moyogalpa,63,40243,50,3,9,373,iOS,1
+931,Park,Landeg,25,female,03/09/2019,109861,Dioknisi,37,5789,3,5,5,598,Android,1
+932,Christalle,Kille,45,male,12/07/2022,71289,Töreboda,77,6570,50,11,10,504,Android,1
+933,Maynord,Kobelt,67,female,21/04/2023,128384,Parada de Pinhão,64,9462,45,7,8,588,iOS,1
+934,Orin,Manson,49,female,29/02/2024,36503,Cabo Frio,90,22361,67,10,4,746,iOS,0
+935,Payton,Alleyn,28,male,05/11/2020,145560,Balkanabat,77,25803,41,4,6,598,Web,0
+936,Florenza,Madelin,45,female,28/12/2022,116009,Nichinan,9,49753,14,9,2,651,iOS,1
+937,Rabbi,Prestland,25,non-binary,19/08/2021,79781,Mariposa,53,17571,64,3,2,839,iOS,0
+938,Kareem,Romanin,58,male,20/02/2019,33589,Majingklak,65,27172,65,12,12,788,Android,0
+939,Steffi,Samworth,64,female,04/11/2023,113912,Sendang,1,21265,17,4,9,674,Android,0
+940,Tynan,Rochford,54,female,09/10/2022,69288,Leitões,33,35336,49,3,0,358,iOS,0
+941,Alair,Henrique,74,male,26/03/2019,136032,Pueblo Nuevo,39,29914,40,8,3,568,iOS,1
+942,Sandra,Beakes,41,male,11/09/2020,18105,Vitry-sur-Seine,37,17946,1,1,7,626,Web,1
+943,Gradey,Duffer,22,non-binary,04/05/2024,67266,Henggang,68,19306,13,1,2,554,iOS,0
+944,Giulio,Vereker,18,male,10/09/2020,24810,Fenchen,85,18604,28,11,1,486,Web,0
+945,Frederic,Orr,22,female,17/06/2020,96592,General Manuel J. Campos,41,10746,61,9,6,438,iOS,0
+946,Becca,Moore,34,male,19/09/2019,133400,Baruchowo,70,48951,55,6,7,752,Android,0
+947,Ninnette,Acres,69,female,07/06/2023,48781,Vailoa,45,46368,85,10,5,393,Android,1
+948,Karlen,Sylett,75,female,29/03/2021,16866,Oceanside,120,1102,87,1,9,304,iOS,0
+949,Missy,Fury,59,female,27/03/2023,26944,Sandata,26,16066,52,4,0,689,Web,0
+950,Sib,Byk,36,female,05/12/2023,83066,Kaeng Khro,25,22005,12,12,4,758,Android,0
+951,Kordula,Frere,40,female,21/01/2024,42160,Timurjaya,32,38777,23,12,11,724,Web,0
+952,Sasha,Bunworth,58,female,10/07/2019,102932,Sapeken,35,31758,56,7,1,814,Web,1
+953,Brittani,Sander,32,female,28/08/2020,34004,Podgorenskiy,80,24264,34,11,10,694,iOS,0
+954,Erna,Mosley,64,non-binary,22/01/2023,114668,Shichuan,16,14120,14,0,6,547,iOS,0
+955,Joye,Aslie,18,female,13/02/2020,63684,Luzern,118,35887,89,9,2,479,Web,0
+956,Logan,Peasby,19,male,28/03/2020,130831,Baní,62,37856,24,12,3,639,Web,1
+957,Marjie,Simmen,36,female,25/07/2018,47741,Karangsembung,80,41274,83,11,5,415,iOS,1
+958,Roselle,Nockells,54,female,13/08/2022,74435,Calidñgan,23,38488,77,1,4,622,iOS,0
+959,Miran,Grinov,60,female,12/11/2020,48723,Telsiai,48,6320,58,12,0,433,Android,0
+960,Marley,Proschek,60,female,22/02/2020,113509,Mascouche,51,20853,23,11,0,732,iOS,1
+961,Alexio,Malley,33,female,24/01/2022,90562,Kayan,116,48896,60,0,7,556,iOS,0
+962,Patty,Wrightson,65,female,03/04/2024,117732,Wuyahe,106,19031,77,1,1,825,Android,1
+963,Andra,Wessel,18,female,16/07/2020,79123,Trablice,115,49182,11,7,9,751,iOS,1
+964,Helenka,Moukes,70,non-binary,16/08/2023,102721,Biyan,105,40620,34,11,13,779,Android,1
+965,Jobie,Stailey,36,female,16/04/2022,16458,Maliang,52,10515,76,7,4,658,iOS,0
+966,Eydie,McKain,74,male,23/01/2022,43884,Taizi,92,8875,11,12,7,301,iOS,0
+967,Mari,Sailor,30,non-binary,02/12/2023,82321,Liqizhuang,29,7895,35,12,8,333,Android,1
+968,Jeana,Doddemeade,53,male,30/09/2022,44735,Forshaga,91,32509,44,6,12,624,Android,1
+969,Othello,Hartly,44,male,31/05/2019,91020,Ar Rifā‘,106,7569,79,1,0,799,Web,0
+970,Darda,Tasseler,55,male,20/04/2022,55201,Hadabei,102,22547,90,5,1,619,Android,0
+971,Jordan,Hallet,49,male,02/06/2020,110985,Tucdao,12,7909,19,8,5,735,iOS,0
+972,Raquela,Dunrige,42,female,08/08/2021,137256,Pasirnangka,59,36872,80,6,9,684,iOS,0
+973,Travis,Posen,63,male,27/03/2022,15313,Pondaguitan,30,40084,51,11,2,644,Android,1
+974,Welbie,McGreal,55,female,23/03/2020,36802,La Banda,38,9638,77,12,15,711,Android,1
+975,Lock,Capnerhurst,26,female,06/10/2022,94664,Gazanjyk,4,32464,70,9,9,401,Web,1
+976,Olin,Mallall,56,male,26/04/2019,49219,Matam,61,13712,55,11,5,354,iOS,0
+977,Martha,Bachnic,53,male,01/10/2021,39066,Balahovit,11,19688,50,1,13,659,iOS,0
+978,Janella,Walbrook,62,female,22/02/2019,104004,Sangar Sarāy,54,12172,68,10,6,645,iOS,1
+979,Alessandra,Craine,62,non-binary,24/06/2020,72387,Ponong,23,39309,72,5,0,493,Web,0
+980,Janeczka,Rusling,74,female,23/03/2021,59181,Linjiang,14,12287,77,2,7,739,iOS,1
+981,Marthena,Hassen,53,female,25/06/2023,113969,Quipot,55,46310,1,0,8,502,iOS,0
+982,Rayshell,Scrimshire,45,male,16/02/2020,16562,Huilelot,119,32817,72,6,6,554,Android,1
+983,Aylmer,Klimashevich,49,male,20/10/2024,15127,Caoping,104,11815,84,6,0,613,Android,1
+984,Jayson,Cowburn,69,female,15/02/2023,119090,Krzyżowice,64,40742,77,10,2,486,Android,0
+985,Donny,Spears,29,male,16/07/2019,36640,Tegalalang,33,26371,54,1,6,491,Android,0
+986,Giacinta,Askham,24,non-binary,03/04/2020,69962,Cuispes,76,15618,64,12,2,398,Android,0
+987,Erik,Fishburn,18,male,26/09/2019,121837,Novoaltaysk,78,13758,71,6,10,390,Android,0
+988,Darrel,Hischke,50,male,23/02/2018,67660,Cururupu,89,40241,67,1,9,840,iOS,1
+989,Sidonia,Dast,59,male,23/03/2023,49453,Hongqi,10,39423,5,7,12,690,Android,0
+990,Leanna,Delacourt,20,female,04/01/2024,17673,Rechitsy,98,18102,86,2,2,379,Android,1
+991,Kendra,Barbier,51,male,24/01/2020,59416,Yonkers,15,41016,40,0,5,814,Android,1
+992,Chevy,Kampshell,45,female,10/04/2018,101655,Lucija,41,1659,68,5,13,591,Android,0
+993,Pepillo,Kenny,57,male,12/04/2020,43110,Porto Ferreira,14,7801,5,0,3,395,iOS,0
+994,Umeko,Mussard,31,female,25/05/2024,27444,Barqueiro,71,35538,87,2,8,567,Android,1
+995,Roz,Luckett,47,non-binary,18/12/2022,60444,Goiatuba,34,3860,31,6,12,368,iOS,1
+996,Adelaide,Bastian,32,male,05/01/2021,122519,Gizo,120,43080,27,4,11,661,Web,1
+997,Zorine,Tittletross,59,female,18/12/2021,142183,Al Qurayn,57,43503,3,1,2,350,Web,0
+998,Agata,Gatteridge,26,male,27/08/2021,101376,Patos de Minas,19,25215,86,1,6,349,Android,0
+999,Codee,Showalter,68,male,28/04/2021,106978,Lubao,83,16674,27,5,9,803,Web,0
+1000,Tracie,Matiebe,52,male,19/07/2018,128639,Bodeh,23,22899,29,0,14,688,Web,0
