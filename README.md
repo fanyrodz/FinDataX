@@ -3,7 +3,7 @@
 📌 Project Overview
 
 This project explores a synthetic dataset from a fictional fintech company, FinDataX, with the goal of understanding the factors that may drive customer churn (service cancellation).
-The dataset was generated with Mockaroo and includes information such as account activity, payments, app logins, and balances.
+The dataset includes information such as account activity, payments, app logins, and balances.
 
 🎯 Objective
 
@@ -11,7 +11,7 @@ Identify which variables show a meaningful relationship with the churn indicator
 
 🗂️ Data
 
-- Rows: ~5,000 customers
+- Rows: ~1,000 customers
 - Main columns:
 
   - late_payments – number of late payments
